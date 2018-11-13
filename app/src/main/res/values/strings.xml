@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Học tiếng anh</string>
+    <string name="learn_new_word">Học từ mới</string>
+    <string name="learn_new_phase">Giao tiếp</string>
+    <string name="grammar">Ngữ pháp</string>
+    <string name="add_word">Thêm từ mới</string>
+    <string name="irregular_verb">Động từ bất quy tắc</string>
+    <string name="conversation">Đoạn hội thoại</string>
+    <string name="acronym_word">Từ viết tắt</string>
+    <string name="quote">Danh ngôn</string>
+    <string name="setting">Cài đặt</string>
+    <string name="help">Trợ giúp</string>
+    <string name="train">Luyện tập</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="fanpage">Fanpage</string>
+    <string name="search_hint">Nhập để tìm kiếm</string>
+    <string name="no_word">Chưa học từ nào. Chọn "Thêm" để học từ mới</string>
+    <string name="add_random">Thêm ngẫu nhiên</string>
+    <string name="right_choice">Đúng</string>
+    <string name="wrong_choice">Sai</string>
+    <string name="speak">Phát âm</string>
+    <string name="change_word">Đổi từ</string>
+    <string name="notify">Nhắc từ</string>
+    <string name="lock_screen">Màn hình khóa</string>
+
+    <string name="test_default">Chọn nghĩa đúng của từ này </string>
+    <string name="test_listen">Chọn từ bạn nghe được </string>
+    <string name="test_next">Tiếp tục</string>
+    <string name="test_check">Kiểm tra</string>
+    <string name="test_enter_answer_hint">Điền câu trả lời....</string>
+    <string name="test_not_enough_word">Bạn cần học ít nhất 10 từ mới có thể sử dụng tính năng này</string>
+
+
+    <string-array name="grammar">
+        <item>1. Cấu trúc chung của một câu</item>
+        <item>2. Noun phrase (ngữ danh từ)</item>
+        <item>3. Verb phrase (ngữ động từ)</item>
+        <item>4. Sự hòa hợp giữa chủ ngữ và động từ</item>
+        <item>5. Đại từ</item>
+        <item>6. Tân ngữ (complement / object) và các vấn đề liên quan</item>
+        <item>7. Một số động từ đặc biệt (need, dare, to be, get)</item>
+        <item>8. Câu hỏi</item>
+        <item>9. Lối nói phụ họa</item>
+        <item>10. Câu phủ định (negation)</item>
+        <item>11. Câu mệnh lệnh</item>
+        <item>12. Các trợ động từ (Modal Auxiliaries)</item>
+        <item>13. Câu điều kiện</item>
+        <item>14. Cách dùng một số trợ động từ hình thái ở thời hiện tại</item>
+        <item>15. Dùng trợ động từ để diễn đạt tình huống quá khứ (modal + perfective)</item>
+        <item>16. Cách dùng should trong một số trường hợp cụ thể khác</item>
+        <item>17. Tính từ và phó từ</item>
+        <item>18. Liên từ (linking verb)</item>
+        <item>19. Các dạng so sánh của tính từ và phó từ</item>
+        <item>20. Danh từ dùng làm tính từ</item>
+        <item>21. Cách dùng Enough</item>
+        <item>22. Much, many, a lot of và lots of – trong một số trường hợp khác</item>
+        <item>23. Các cụm từ nối mang tính quan hệ nhân quả</item>
+        <item>24. Câu bị động (passive voice)</item>
+        <item>25. Một số cấu trúc cầu khiến (causative)</item>
+        <item>26. Câu phức hợp và đại từ quan hệ</item>
+        <item>27. Cách sử dụng một số cấu trúc P1</item>
+        <item>28. Cách sử dụng một số cấu trúc P2</item>
+        <item>29. Những cách sử dụng khác của that</item>
+        <item>30. Câu giả định (subjunctive)</item>
+        <item>31. Lối nói bao hàm (inclusive)</item>
+        <item>32. Dùng to know, to know how.</item>
+        <item>33. Mệnh đề thể hiện sự nhượng bộ</item>
+        <item>34. Những động từ dễ gây nhầm lẫn</item>
+        <item>35. Một số các động từ đặc biệt khác</item>
+        <item>36. Sự phù hợp về thời giưa hai vế của một câu</item>
+        <item>37. Cách sử dụng to say, to tell</item>
+        <item>38. One và You</item>
+        <item>39. Đi trước đại từ phải có một danh từ tương ứng với nó</item>
+        <item>40. Sử dụng V-ing, to + verb để mở đầu một câu</item>
+        <item>41. Động từ (V-ing, V-ed) dùng làm tính từ</item>
+        <item>42. Thông tin thừa (redundancy)</item>
+        <item>43. Cấu trúc song song trong câu</item>
+        <item>44. Chuyển đổi vị trí tân ngữ trực tiếp và gián tiếp</item>
+        <item>45. Câu trực tiếp và câu gián tiếp</item>
+        <item>46. Khi phó từ đứng đầu câu để nhấn mạnh, phải đảo cấu trúc câu</item>
+        <item>47. Cách sử dụng giới từ</item>
+        <item>48. Một số ngữ động từ thường gặp</item>
+        <item>49. Cách làm bài trắc nghiệm ngữ pháp</item>
+    </string-array>
+
+    <string name="key_preference_open_source_license">key_preference_open_source_license</string>
+    <string name="setting_lock_open_source_license_title">Giấy phép mã nguồn mở</string>
+    <string name="key_setting_speak_speed">key_setting_speak_speed</string>
+    <string name="setting_speed_title">Tốc độ phát âm</string>
+    <string name="setting_speed_summary">Thay đổi tốc độ phát âm </string>
+    <string-array name="speak_speed">
+        <item name="1">0.25x</item>
+        <item name="2">0.5x</item>
+        <item name="3">0.75</item>
+        <item name="4">1(normal)</item>
+        <item name="5">1.25</item>
+        <item name="6">1.5</item>
+        <item name="7">1.75</item>
+        <item name="8">2</item>
+    </string-array>
+
+    <string-array name="speak_speed_values">
+        <item name="1">0.25</item>
+        <item name="2">0.5</item>
+        <item name="3">0.75</item>
+        <item name="4">1</item>
+        <item name="5">1.25</item>
+        <item name="6">1.5</item>
+        <item name="7">1.75</item>
+        <item name="8">2</item>
+    </string-array>
+    <string name="admob_id">ca-app-pub-7774020351237480/9658296851</string>
+
+    <string name="unlock_instructions">Vuốt để mở khóa</string>
+    <string name="unlock_locked">Khóa</string>
+    <string name="unlock_unlocked">Mở khóa</string>
+    <string name="unlock_thumb">Move this thumb</string>
+
+
+</resources>

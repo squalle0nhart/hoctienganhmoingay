@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+ 
+    <lesson id="1" en_title="Where are you from?" local_title="Bạn từ đâu tới?">
+   </lesson>
+    <lesson id="2" en_title="Do you speak English?" local_title="Bạn có nói tiếng Anh không?">
+    </lesson>
+    <lesson id="3" en_title="What's your name?" local_title="Tên bạn là gì?">
+    </lesson>
+    <lesson id="4" en_title="Asking directions." local_title="Hỏi đường.">
+    </lesson>
+    <lesson id="5" en_title="I'm hungry." local_title="Tôi đói.">
+    </lesson>
+    <lesson id="6" en_title="Do you want something to drink?" local_title="Bạn có muốn uống gì không?">
+    </lesson>
+    <lesson id="7" en_title="That's too late." local_title="Muộn quá.">
+    </lesson>
+    <lesson id="8" en_title="Choosing a time to meet." local_title="Định thời gian gặp nhau.">
+    </lesson>
+    <lesson id="9" en_title="When do you want to go?" local_title="Khi nào bạn muốn đi?">
+    </lesson>
+    <lesson id="10" en_title="Ordering food." local_title="Gọi thức ăn.">
+    </lesson>
+    <lesson id="11" en_title="Now or later?" local_title="Bây giờ hoặc sau?">
+    </lesson>
+    <lesson id="12" en_title="Do you have enough money?" local_title="Bạn có đủ tiền không?">
+    </lesson>
+    <lesson id="13" en_title="How have you been?" local_title="Bạn đã ra sao?">
+    </lesson>
+    <lesson id="14" en_title="Introducing a friend." local_title="Giới thiệu một người bạn.">
+    </lesson>
+    <lesson id="15" en_title="Buying a shirt." local_title="Mua một cái áo sơ mi.">
+    </lesson>
+    <lesson id="16" en_title="Asking about location." local_title="Hỏi địa điểm.">
+    </lesson>
+    <lesson id="17" en_title="Do you know the address?" local_title="Bạn có biết địa chỉ không?">
+    </lesson>
+    <lesson id="18" en_title="Vacation to Canada." local_title="Đi nghỉ mát ở Canada.">
+    </lesson>
+    <lesson id="19" en_title="Who is that woman?" local_title="Người phụ nữ đó là ai?">
+    </lesson>
+    <lesson id="20" en_title="Common questions." local_title="Những câu hỏi thông thường.">
+    </lesson>
+    <lesson id="21" en_title="The supermarket is closed." local_title="Siêu thị đã đóng cửa.">
+    </lesson>
+    <lesson id="22" en_title="Do you have any children?" local_title="Bạn có con không?">
+    </lesson>
+    <lesson id="23" en_title="Help with pronunciation." local_title="Giúp phát âm.">
+    </lesson>
+    <lesson id="24" en_title="I lost my wallet." local_title="Tôi bị mất ví.">
+    </lesson>
+    <lesson id="25" en_title="Phone call at work." local_title="Cuộc gọi điện thoại tại nơi làm việc.">
+    </lesson>
+   <lesson id="26" en_title="Family trip." local_title="Chuyến đi của gia đình.">
+    </lesson>
+    <lesson id="27" en_title="I went shopping." local_title="Tôi đi mua sắm.">
+    </lesson>
+    <lesson id="28" en_title="What kind of music do you like?" local_title="Bạn thích loại nhạc gì?">
+    </lesson>
+    <lesson id="29" en_title="Going to the library." local_title="Đi thư viện.">
+    </lesson>
+    <lesson id="30" en_title="Where do your parents live?" local_title="Bố mẹ bạn sống ở đâu?">
+    </lesson>
+    <lesson id="31" en_title="Can you help me find a few things?" local_title="Bạn có thể giúp tôi tìm một vài đồ vật được không?">
+    </lesson>
+    <lesson id="32" en_title="Paying for dinner." local_title="Trả tiền ăn tối.">
+    </lesson>
+    <lesson id="33" en_title="Buying a plane ticket." local_title="Mua vé máy bay.">
+    </lesson>
+    <lesson id="34" en_title="Putting things in order." local_title="Sắp xếp mọi thứ.">
+    </lesson>
+    <lesson id="35" en_title="At the restaurant." local_title="Tại nhà hàng.">
+    </lesson>
+    <lesson id="36" en_title="I need to do laundry." local_title="Tôi cần giặt quần áo.">
+    </lesson>
+    <lesson id="37" en_title="Finding a convenience store." local_title="Tìm một cửa hàng tiện lợi.">
+    </lesson>
+    <lesson id="38" en_title="Geography and direction." local_title="Địa lý và phương hướng.">
+    </lesson>
+    <lesson id="39" en_title="I ate at the hotel." local_title="Tôi ăn ở khách sạn.">
+    </lesson>
+    <lesson id="40" en_title="Going to the movies." local_title="Đi xem phim.">
+    </lesson>
+    <lesson id="41" en_title="The food tastes great." local_title="Thức ăn ngon tuyệt.">
+    </lesson>
+    <lesson id="42" en_title="Helping a friend move." local_title="Giúp một người bạn chuyển đi.">
+    </lesson>
+    <lesson id="43" en_title="Visiting family." local_title="Thăm gia đình.">
+    </lesson>
+    <lesson id="44" en_title="Looking at vacation pictures." local_title="Xem ảnh nghỉ mát.">
+    </lesson>
+    <lesson id="45" en_title="Ordering flowers." local_title="Đặt mua hoa.">
+    </lesson>
+    <lesson id="46" en_title="Leaving a message." local_title="Để lại một lời nhắn.">
+    </lesson>
+    <lesson id="47" en_title="Talking about the weather." local_title="Nói chuyện thời tiết.">
+    </lesson>
+    <lesson id="48" en_title="Making plans." local_title="Đặt kế hoạch.">
+    </lesson>
+    <lesson id="49" en_title="Meeting a friend." local_title="Đón một người bạn.">
+    </lesson>
+    <lesson id="50" en_title="I'm a student." local_title="Tôi là sinh viên.">
+    </lesson>
+    <lesson id="51" en_title="Studying for exams." local_title="Học thi.">
+    </lesson>
+    <lesson id="52" en_title="Did you get my message?" local_title="Bạn có nhận được tin nhắn của tôi không?">
+    </lesson>
+    <lesson id="53" en_title="Making a doctor's appointment." local_title="Hẹn gặp bác sĩ.">
+    </lesson>
+    <lesson id="54" en_title="Mail." local_title="Thư tín.">
+    </lesson>
+    <lesson id="55" en_title="I have a cold." local_title="Tôi bị cảm.">
+    </lesson>
+    <lesson id="56" en_title="Dinner invitation." local_title="Mời ăn tối.">
+    </lesson>
+    <lesson id="57" en_title="Send me the directions." local_title="Gửi cho tôi đường đi.">
+    </lesson>
+    <lesson id="58" en_title="Bad cell phone reception." local_title="Điện thoại di động thu tín hiệu kém.">
+    </lesson>
+    <lesson id="59" en_title="Going to the gym." local_title="Đi đến phòng tập thể dục.">
+    </lesson>
+    <lesson id="60" en_title="Car accident." local_title="Tai nạn xe.">
+    </lesson>
+    <lesson id="61" en_title="Doctor's visit." local_title="Đến gặp bác sĩ.">
+    </lesson>
+    <lesson id="62" en_title="Making a hotel reservation." local_title="Đặt chỗ ở khách sạn.">
+    </lesson>
+    <lesson id="63" en_title="I changed my mind." local_title="Tôi đổi ý.">
+    </lesson>
+    <lesson id="64" en_title="Do you want to play a game?" local_title="Bạn muốn chơi một trò chơi không?">
+    </lesson>
+    <lesson id="65" en_title="Birthday present." local_title="Quà sinh nhật.">
+    </lesson>
+    <lesson id="66" en_title="Checking into a hotel." local_title="Thuê phòng khách sạn.">
+    </lesson>
+    <lesson id="67" en_title="Sending a package." local_title="Gửi một gói hàng.">
+    </lesson>
+    <lesson id="68" en_title="I have allergies." local_title="Tôi bị dị ứng.">
+    </lesson>
+    <lesson id="69" en_title="Josh works at a software company." local_title="Josh làm việc ở một công ty phần mềm.">
+    </lesson>
+    <lesson id="70" en_title="Listening to music." local_title="Nghe nhạc.">
+    </lesson>
+    <lesson id="71" en_title="Taking a taxi." local_title="Đi tắc xi.">
+    </lesson>
+    <lesson id="72" en_title="We're not lost!" local_title="Chúng ta lạc đường.">
+    </lesson>
+    <lesson id="73" en_title="Help me find my purse." local_title="Giúp tôi tìm cái ví.">
+    </lesson>
+    <lesson id="74" en_title="Taking pictures." local_title="Chụp ảnh.">
+    </lesson>
+    <lesson id="75" en_title="I dropped your calculator." local_title="Tôi đánh rơi máy tính bỏ túi của bạn.">
+    </lesson>
+    <lesson id="76" en_title="I brought you an apple." local_title="Tôi mang cho bạn trái táo.">
+    </lesson>
+    <lesson id="77" en_title="My mother-in-law is coming tomorrow." local_title="Mẹ vợ (chồng) tôi sẽ đến vào ngày mai.">
+    </lesson>
+    <lesson id="78" en_title="Jim cancelled the meeting." local_title="Jim hủy cuộc gặp gỡ.">
+    </lesson>
+    <lesson id="79" en_title="Bill got fired." local_title="Bill bị sa thải.">
+    </lesson>
+    <lesson id="80" en_title="Nervous about surgery." local_title="Lo lắng về vụ phẫu thuật.">
+    </lesson>
+    <lesson id="81" en_title="A romantic story." local_title="Một câu chuyện lãng mạn.">
+    </lesson>
+    <lesson id="82" en_title="Worried about dad." local_title="Lo lắng về bố.">
+    </lesson>
+    <lesson id="83" en_title="I'm getting fat." local_title="Tôi béo lên.">
+    </lesson>
+    <lesson id="84" en_title="I'll take you to work." local_title="Tôi sẽ đưa bạn đi làm.">
+    </lesson>
+    <lesson id="85" en_title="Snowing outside." local_title="Bên ngoài trời mưa tuyết.">
+    </lesson>
+    <lesson id="86" en_title="Missed call." local_title="Cuộc gọi lỡ.">
+    </lesson>
+    <lesson id="87" en_title="Shopping for a friend." local_title="Mua sắm cho một người bạn.">
+    </lesson>
+    <lesson id="88" en_title="What is your major?" local_title="Chuyên ngành của bạn là gì?">
+    </lesson>
+    <lesson id="89" en_title="New apartment." local_title="Căn hộ mới.">
+    </lesson>
+    <lesson id="90" en_title="Have you found a girlfriend yet?" local_title="Bạn tìm được bạn gái chưa?">
+    </lesson>
+    <lesson id="91" en_title="Computer problems." local_title="Trục trặc máy tính.">
+    </lesson>
+    <lesson id="92" en_title="Do you know how to get downtown?" local_title="Bạn biết làm sao đi ra phố không?">
+    </lesson>
+    <lesson id="93" en_title="Did you see the news today?" local_title="Bạn đã xem tin tức hôm nay chưa?">
+    </lesson>
+    <lesson id="94" en_title="What's your favorite sport?" local_title="Môn thể thao ưa thích của bạn là gì?">
+    </lesson>
+    <lesson id="95" en_title="Making a webpage." local_title="Lập trang web.">
+    </lesson>
+    <lesson id="96" en_title="Would you mind driving?" local_title="Bạn có phiền nếu lái xe không?">
+    </lesson>
+    <lesson id="97" en_title="Your English is so good." local_title="Tiếng Anh của bạn rất tốt.">
+    </lesson>
+    <lesson id="98" en_title="Gifts." local_title="Quà tặng.">
+    </lesson>
+    <lesson id="99" en_title="Election." local_title="Bầu cử.">
+    </lesson>
+    <lesson id="100" en_title="Book club." local_title="Câu lạc bộ sách.">
+    </lesson>
+
+  
+</root>

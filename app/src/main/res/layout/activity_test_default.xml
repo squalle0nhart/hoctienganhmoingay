@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorMainBackground">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="@string/test_default"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/ll_speak_test"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/tv_title"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_test_speak"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/ic_listen_24px" />
+
+        <TextView
+            android:id="@+id/tv_word_test"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="24sp"
+            android:typeface="monospace"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_speak_test"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/bt_choice_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:gravity="left|center_vertical"
+            android:minHeight="50dp"
+            android:text="choice 1" />
+
+        <Button
+            android:id="@+id/bt_choice_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="5dp"
+            android:gravity="left|center_vertical"
+            android:minHeight="50dp"
+            android:text="choice 1" />
+
+        <Button
+            android:id="@+id/bt_choice_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="5dp"
+            android:gravity="left|center_vertical"
+            android:minHeight="50dp"
+            android:text="choice 1" />
+
+        <Button
+            android:id="@+id/bt_choice_4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="5dp"
+            android:gravity="left|center_vertical"
+            android:minHeight="50dp"
+            android:text="choice 1" />
+
+        <Button
+            android:id="@+id/bt_test_next"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:layout_gravity="right"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/colorConversationOut"
+            android:gravity="center|center_vertical"
+            android:text="@string/test_next"
+            android:textColor="@android:color/white"
+            android:visibility="invisible" />
+
+    </LinearLayout>
+
+</RelativeLayout>

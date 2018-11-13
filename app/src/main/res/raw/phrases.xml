@@ -1,0 +1,860 @@
+<phrases local_title="1000 Cụm Từ Thông Dụng Nhất" en_title="1000 Common Phrases">
+    
+   
+    <phrase local_text="Nó sẵn sàng không?" en_text="Is it ready? " catalog_id="1"/>
+    <phrase local_text="Điều đó có thể không?" en_text="Is it possible?" catalog_id="1"/>
+    <phrase local_text="Tới đây." en_text="Come here. " catalog_id="1"/>
+    <phrase local_text="Tôi quên." en_text="I forget. " catalog_id="1"/>
+    <phrase local_text="Tôi khỏe." en_text="I'm good. " catalog_id="1"/>
+    <phrase local_text="Tôi sẵn sàng." en_text="I'm ready. " catalog_id="1"/>
+    <phrase local_text="Tôi đã thấy nó." en_text="I've seen it. " catalog_id="1"/>
+    <phrase local_text="Bạn sẵn sàng chưa?" en_text="Are you ready? " catalog_id="1"/>
+    <phrase local_text="Tôi không cần." en_text="I don't care. " catalog_id="1"/>
+    <phrase local_text="Tôi bỏ cuộc." en_text="I give up. " catalog_id="1"/>
+    <phrase local_text="Tôi vẫn chưa quyết định." en_text="I still haven't decided. " catalog_id="1"/>
+    <phrase local_text="Tôi còn nhiều thứ phải làm." en_text="I still have a lot to do. " catalog_id="1"/>
+    <phrase local_text="Tôi có thể bơi." en_text="I can swim. " catalog_id="1"/>
+    <phrase local_text="Tôi tin bạn." en_text="I trust you. " catalog_id="1"/>
+    <phrase local_text="Tôi thường uống cà phê vào bữa điểm tâm." en_text="I usually drink coffee at breakfast. " mp3_slow="IUsuallyDrinkCoffeeAtBreakfast.mp3" mp3_normal="IUsuallyDrinkCoffeeAtBreakfast.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi chỉ đùa thôi." en_text="I'm just kidding. " mp3_slow="ImJustKidding.mp3" mp3_normal="ImJustKidding.mp3" catalog_id="1"/>
+    <phrase local_text="Hãy cẩn thận." en_text="Be careful. " mp3_slow="beCareful.mp3" mp3_normal="beCareful.mp3" catalog_id="1"/>
+    <phrase local_text="Lái xe cẩn thận." en_text="Be careful driving. " mp3_slow="beCarefulDriving.mp3" mp3_normal="beCarefulDriving.mp3" catalog_id="1"/>
+    <phrase local_text="Bạn có thể dịch cho tôi cái này được không?" en_text="Can you translate this for me? " mp3_slow="canYouTranslateThisForMe.mp3" mp3_normal="canYouTranslateThisForMe.mp3" catalog_id="1"/>
+    <phrase local_text="Chicago rất khác Boston." en_text="Chicago is very different from Boston. " mp3_slow="chicagoIsVeryDifferentFromBoston.mp3" mp3_normal="chicagoIsVeryDifferentFromBoston.mp3" catalog_id="1"/>
+    <phrase local_text="Đừng lo." en_text="Don't worry. " mp3_slow="dontWorry.mp3" mp3_normal="dontWorry.mp3" catalog_id="1"/>
+    <phrase local_text="Mọi người biết điều đó." en_text="Everyone knows it. " mp3_slow="everyoneKnowsIt.mp3" mp3_normal="everyoneKnowsIt.mp3" catalog_id="1"/>
+    <phrase local_text="Mọi thứ đã sẵn sàng." en_text="Everything is ready. " mp3_slow="everythingIsReady.mp3" mp3_normal="everythingIsReady.mp3" catalog_id="1"/>
+    <phrase local_text="Xuất sắc." en_text="Excellent. " mp3_slow="excellent.mp3" mp3_normal="excellent.mp3" catalog_id="1"/>
+    <phrase local_text="Thỉnh thoảng." en_text="From time to time. " mp3_slow="fromTimeToTime.mp3" mp3_normal="fromTimeToTime.mp3" catalog_id="1"/>
+    <phrase local_text="Ý kiến hay." en_text="Good idea. " mp3_slow="goodIdea.mp3" mp3_normal="goodIdea.mp3" catalog_id="1"/>
+    <phrase local_text="Anh ta thích nó lắm." en_text="He likes it very much. " mp3_slow="heLikesItVeryMuch.mp3" mp3_normal="heLikesItVeryMuch.mp3" catalog_id="1"/>
+    <phrase local_text="Giúp tôi!" en_text="Help! " mp3_slow="help.mp3" mp3_normal="help.mp3" catalog_id="1"/>
+    <phrase local_text="Anh ta sắcp tới." en_text="He's coming soon. " mp3_slow="hesComingSoon.mp3" mp3_normal="hesComingSoon.mp3" catalog_id="1"/>
+    <phrase local_text="Anh ta đúng." en_text="He's right. " mp3_slow="hesRight.mp3" mp3_normal="hesRight.mp3" catalog_id="1"/>
+    <phrase local_text="Anh ta quấy rối quá." en_text="He's very annoying. " mp3_slow="hesVeryAnnoying.mp3" mp3_normal="hesVeryAnnoying.mp3" catalog_id="1"/>
+    <phrase local_text="Anh ta rất nổi tiếng." en_text="He's very famous. " mp3_slow="hesVeryFamous.mp3" mp3_normal="hesVeryFamous.mp3" catalog_id="1"/>
+    <phrase local_text="Bạn khỏe ckhông?" en_text="How are you? " mp3_slow="howAreYou.mp3" mp3_normal="howAreYou.mp3" catalog_id="1"/>
+    <phrase local_text="Việc làm thế nào?" en_text="How's work going? " mp3_slow="howsWorkGoing.mp3" mp3_normal="howsWorkGoing.mp3" catalog_id="1"/>
+    <phrase local_text="Nhanh lên!" en_text="Hurry! " mp3_slow="hurry.mp3" mp3_normal="hurry.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi đã ăn rồi." en_text="I ate already. " mp3_slow="iAteAlready.mp3" mp3_normal="iAteAlready.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi không thể nghe bạn nói." en_text="I can't hear you. " mp3_slow="iCantHearYou.mp3" mp3_normal="iCantHearYou.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi không biết cách dùng nó." en_text="I don't know how to use it. " mp3_slow="iDontKnowHowToUseIt.mp3" mp3_normal="iDontKnowHowToUseIt.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi khônbg thích anh ta." en_text="I don't like him. " mp3_slow="iDontLikeHim.mp3" mp3_normal="iDontLikeHim.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi không thích nó." en_text="I don't like it. " mp3_slow="iDontLikeIt.mp3" mp3_normal="iDontLikeIt.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi không nói giỏi lắm" en_text="I don't speak very well. " mp3_slow="iDontSpeakVeryWell.mp3" mp3_normal="iDontSpeakVeryWell.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi không hiểu." en_text="I don't understand. " mp3_slow="IDontUnderstand.mp3" mp3_normal="IDontUnderstand.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi không muốn nó." en_text="I don't want it. " mp3_slow="IDontWantIt.mp3" mp3_normal="IDontWantIt.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi không muốn cái đó." en_text="I don't want that. " mp3_slow="IDontWantThat.mp3" mp3_normal="IDontWantThat.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi không muốn làm phiền bạn." en_text="I don't want to bother you. " mp3_slow="IDontWantToBotherYou.mp3" mp3_normal="IDontWantToBotherYou.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi cảm thấy khỏe." en_text="I feel good. " mp3_slow="IFeelGood.mp3" mp3_normal="IFeelGood.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi xong việc lúc 6 giờ." en_text="I get off of work at 6. " mp3_slow="IGetOffWorkAt6.mp3" mp3_normal="IGetOffWorkAt6.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi bị nhức đầu." en_text="I have a headache. " mp3_slow="IHaveAHeadache.mp3" mp3_normal="IHaveAHeadache.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi hy vọng bạn và vợ bạn có một chuyến đi thú vị." en_text="I hope you and your wife have a nice trip. " mp3_slow="IHopeYouAndYourWifeHaveANiceTrip.mp3" mp3_normal="IHopeYouAndYourWifeHaveANiceTrip.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi biết." en_text="I know. " mp3_slow="IKnow.mp3" mp3_normal="IKnow.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi thích cô ta." en_text="I like her. " mp3_slow="ILikeHer.mp3" mp3_normal="ILikeHer.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi bị mất đồng hồ." en_text="I lost my watch. " mp3_slow="ILostMyWatch.mp3" mp3_normal="ILostMyWatch.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi yêu bạn." en_text="I love you. " mp3_slow="ILoveYou.mp3" mp3_normal="ILoveYou.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi cần thay quần áo." en_text="I need to change clothes. " mp3_slow="INeedToChangeClothes.mp3" mp3_normal="INeedToChangeClothes.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi cần về nhà." en_text="I need to go home. " mp3_slow="INeedToGoHome.mp3" mp3_normal="INeedToGoHome.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi chỉ cần món ăn nhẹ." en_text="I only want a snack. " mp3_slow="IOnlyWantASnack.mp3" mp3_normal="IOnlyWantASnack.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi nghĩ nó ngon." en_text="I think it tastes good. " mp3_slow="IThinkItTastesGood.mp3" mp3_normal="IThinkItTastesGood.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi nghĩ nó rất tốt." en_text="I think it's very good. " mp3_slow="IThinkItsVeryGood.mp3" mp3_normal="IThinkItsVeryGood.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi nghĩ quần áo rẻ hơn." en_text="I thought the clothes were cheaper. " mp3_slow="IThoughtTheClothesWereCheaper.mp3" mp3_normal="IThoughtTheClothesWereCheaper.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi sắp rời nhà hàng khi những người bạn của tôi tới." en_text="I was about to leave the restaurant when my friends arrived. " mp3_slow="IWasAboutToLeaveTheRestaurantWhenMyFriendsArrived.mp3" mp3_normal="IWasAboutToLeaveTheRestaurantWhenMyFriendsArrived.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi muốn đi dạo." en_text="I'd like to go for a walk. " mp3_slow="IdLikeToGoForAWalk.mp3" mp3_normal="IdLikeToGoForAWalk.mp3" catalog_id="1"/>
+    <phrase local_text="Nếu bạn cần tôi giúp đỡ, làm ơn cho tôi biết." en_text="If you need my help, please let me know. " mp3_slow="ifYouNeedMyHelpPleaseLetMeKnow.mp3" mp3_normal="ifYouNeedMyHelpPleaseLetMeKnow.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi sẽ gọi bạn khi tôi ra đi." en_text="I'll call you when I leave. " mp3_slow="illCallYouWhenILeave.mp3" mp3_normal="illCallYouWhenILeave.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi sẽ trở lại sau." en_text="I'll come back later. " mp3_slow="illComeBackLater.mp3" mp3_normal="illComeBackLater.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi sẽ trả." en_text="I'll pay. " mp3_slow="illPay.mp3" mp3_normal="illPay.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi sẽ mua nó." en_text="I'll take it. " mp3_slow="illTakeIt.mp3" mp3_normal="illTakeIt.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi sẽ đưa bạn tới trạm xe buýt." en_text="I'll take you to the bus stop. " mp3_slow="illTakeYouToTheBusStop.mp3" mp3_normal="illTakeYouToTheBusStop.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi là một người Mỹ." en_text="I'm an American. " mp3_slow="imAnAmerican.mp3" mp3_normal="imAnAmerican.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi đang lau chùi phòng." en_text="I'm cleaning my room. " mp3_slow="imCleaningMyRoom.mp3" mp3_normal="imCleaningMyRoom.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi lạnh." en_text="I'm cold. " mp3_slow="imCold.mp3" mp3_normal="imCold.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi đang tới đón bạn." en_text="I'm coming to pick you up. " mp3_slow="imComingToPickYouUp.mp3" mp3_normal="imComingToPickYouUp.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi sắp đi." en_text="I'm going to leave. " mp3_slow="ImGoingToLeave.mp3" mp3_normal="ImGoingToLeave.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi khỏe, còn bạn?" en_text="I'm good, and you? " mp3_slow="ImGoodAndYou.mp3" mp3_normal="ImGoodAndYou.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi vui." en_text="I'm happy. " mp3_slow="ImHappy.mp3" mp3_normal="ImHappy.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi đói." en_text="I'm hungry. " mp3_slow="ImHungry.mp3" mp3_normal="ImHungry.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi có gia đình." en_text="I'm married. " mp3_slow="ImMarried.mp3" mp3_normal="ImMarried.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi không bận." en_text="I'm not busy. " mp3_slow="ImNotBusy.mp3" mp3_normal="ImNotBusy.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi không có gia đình." en_text="I'm not married. " mp3_slow="ImNotMarried.mp3" mp3_normal="ImNotMarried.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi chưa sẵn sàng." en_text="I'm not ready yet. " mp3_slow="ImNotReadyYet.mp3" mp3_normal="ImNotReadyYet.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi không chắc." en_text="I'm not sure. " mp3_slow="ImNotSure.mp3" mp3_normal="ImNotSure.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi rất tiếc, chúng tôi hết hàng." en_text="I'm sorry, we're sold out. " mp3_slow="ImSorryWereSoldOut.mp3" mp3_normal="ImSorryWereSoldOut.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi khát." en_text="I'm thirsty. " mp3_slow="ImThirsty.mp3" mp3_normal="ImThirsty.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi rất bận. Bây giờ tôi không có thời gian." en_text="I'm very busy. I don't have time now. " mp3_slow="ImVeryBusyIDontHaveTimeNow.mp3" mp3_normal="ImVeryBusyIDontHaveTimeNow.mp3" catalog_id="1"/>
+    <phrase local_text="Ông Smith có phải là người Mỹ không?" en_text="Is Mr. Smith an American? " mp3_slow="isMrSmithAnAmerican.mp3" mp3_normal="isMrSmithAnAmerican.mp3" catalog_id="1"/>
+    <phrase local_text="Như vậy đủ không?" en_text="Is that enough? " mp3_slow="isThatEnough.mp3" mp3_normal="isThatEnough.mp3" catalog_id="1"/>
+    <phrase local_text="Nó dài hơn 2 dặm." en_text="It's longer than 2 miles. " mp3_slow="itsLongerThan2Miles.mp3" mp3_normal="itsLongerThan2Miles.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi đã ở đây 2 ngày." en_text="I've been here for two days. " mp3_slow="IveBeenHereFor2Days.mp3" mp3_normal="IveBeenHereFor2Days.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi đã nghe Texas là một nơi đẹp." en_text="I've heard Texas is a beautiful place. " mp3_slow="IveHeardTexasIsABeautifulPlace.mp3" mp3_normal="IveHeardTexasIsABeautifulPlace.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi chưa bao giờ thấy cái đó trước đây." en_text="I've never seen that before. " mp3_slow="IveNeverSeenThatBefore.mp3" mp3_normal="IveNeverSeenThatBefore.mp3" catalog_id="1"/>
+    <phrase local_text="Một ít thôi." en_text="Just a little. " mp3_slow="justALittle.mp3" mp3_normal="justALittle.mp3" catalog_id="1"/>
+    <phrase local_text="Chờ một chút." en_text="Just a moment. " mp3_slow="justAMoment.mp3" mp3_normal="justAMoment.mp3" catalog_id="1"/>
+    <phrase local_text="Để tôi kiểm tra." en_text="Let me check. " mp3_slow="letMeCheck.mp3" mp3_normal="letMeCheck.mp3" catalog_id="1"/>
+    <phrase local_text="Để tôi suy nghĩ về việc đó." en_text="Let me think about it. " mp3_slow="letMeThinkAboutIt.mp3" mp3_normal="letMeThinkAboutIt.mp3" catalog_id="1"/>
+    <phrase local_text="Chúng ta hãy đi xem." en_text="Let's go have a look. " mp3_slow="letsGoHaveALook.mp3" mp3_normal="letsGoHaveALook.mp3" catalog_id="1"/>
+    <phrase local_text="Chúng ta hãy thực hành tiếng Anh." en_text="Let's practice English. " mp3_slow="letsPracticeEnglish.mp3" mp3_normal="letsPracticeEnglish.mp3" catalog_id="1"/>
+    <phrase local_text="Tôi có thể nói với bà Smith không, xin vui lòng?" en_text="May I speak to Mrs. Smith please? " mp3_slow="mayISpeakToMrsSmithPlease.mp3" mp3_normal="mayISpeakToMrsSmithPlease.mp3" catalog_id="1"/>
+    <phrase local_text="Hơn thế." en_text="More than that. " mp3_slow="moreThanThat.mp3" mp3_normal="moreThanThat.mp3" catalog_id="1"/>
+    <phrase local_text="Đừng bận tâm." en_text="Never mind. " mp3_slow="nevermind.mp3" mp3_normal="nevermind.mp3" catalog_id="1"/>
+    <phrase local_text="Kỳ tới." en_text="Next time. " mp3_slow="nextTime.mp3" mp3_normal="nextTime.mp3" catalog_id="1"/>
+    <phrase local_text="Không, cám ơn." en_text="No, thank you. " mp3_slow="noThankYou.mp3" mp3_normal="noThankYou.mp3" catalog_id="1"/>
+    <phrase local_text="Không." en_text="No. " mp3_slow="no.mp3" mp3_normal="no.mp3" catalog_id="1"/>
+    <phrase local_text="Vô lý." en_text="Nonsense. " mp3_slow="nonsense.mp3" mp3_normal="nonsense.mp3" catalog_id="1"/>
+    <phrase local_text="Không phải lúc gần đây." en_text="Not recently. " mp3_slow="notRecently.mp3" mp3_normal="notRecently.mp3" catalog_id="1"/>
+    <phrase local_text="Chưa." en_text="Not yet. " mp3_slow="notYet.mp3" mp3_normal="notYet.mp3" catalog_id="1"/>
+    <phrase local_text="Không còn gì khác." en_text="Nothing else. " mp3_slow="nothingElse.mp3" mp3_normal="nothingElse.mp3" catalog_id="1"/>
+    <phrase local_text="Dĩ nhiên." en_text="Of course. " mp3_slow="ofCourse.mp3" mp3_normal="ofCourse.mp3" catalog_id="1"/>
+    <phrase local_text="Được." en_text="Okay. " mp3_slow="ok.mp3" mp3_normal="ok.mp3" catalog_id="1"/>
+    <phrase local_text="Làm ơn điền vào đơn này." en_text="Please fill out this form. " mp3_slow="pleaseFillOutThisForm.mp3" mp3_normal="pleaseFillOutThisForm.mp3" catalog_id="1"/>
+    <phrase local_text="Làm ơn đưa tôi tới địa chỉ này." en_text="Please take me to this address. " mp3_slow="pleaseTakeMeToThisAddress.mp3" mp3_normal="pleaseTakeMeToThisAddress.mp3" catalog_id="1"/>
+    <phrase local_text="Làm ơn viết ra giấy." en_text="Please write it down. " mp3_slow="pleaseWriteItDown.mp3" mp3_normal="pleaseWriteItDown.mp3" catalog_id="1"/>
+    <phrase local_text="Thực sao?" en_text="Really? " mp3_slow="really.mp3" mp3_normal="really.mp3" catalog_id="1"/>
+    <phrase local_text="Ngay đây." en_text="Right here. " mp3_slow="rightHere.mp3" mp3_normal="rightHere.mp3" catalog_id="1"/>
+    <phrase local_text="Ngay đóa." en_text="Right there. " mp3_slow="rightThere.mp3" mp3_normal="rightThere.mp3" catalog_id="1"/>
+    <phrase local_text="Gặp bạn sau." en_text="See you later. " mp3_slow="seeYouLater.mp3" mp3_normal="seeYouLater.mp3" catalog_id="1"/>
+    <phrase local_text="Gặp bạn ngày mai." en_text="See you tomorrow. " mp3_slow="seeYouTomorrow.mp3" mp3_normal="seeYouTomorrow.mp3" catalog_id="1"/>
+    <phrase local_text="Gặp bạn tối nay." en_text="See you tonight. " mp3_slow="seeYouTonight.mp3" mp3_normal="seeYouTonight.mp3" catalog_id="1"/>
+    <phrase local_text="Cô ta đẹp." en_text="She's pretty. " mp3_slow="shesPretty.mp3" mp3_normal="shesPretty.mp3" catalog_id="1"/>
+    <phrase local_text="Xin lỗi làm phiền bạn." en_text="Sorry to bother you. " mp3_slow="sorryToBotherYou.mp3" mp3_normal="sorryToBotherYou.mp3" catalog_id="1"/>
+    <phrase local_text="Dừng lại!" en_text="Stop! " mp3_slow="stop.mp3" mp3_normal="stop.mp3" catalog_id="1"/>
+    <phrase local_text="Thử vận may." en_text="Take a chane. " mp3_slow="takeAChane.mp3" mp3_normal="takeAChane.mp3" catalog_id="1"/>
+    <phrase local_text="Mang nó ra ngoài." en_text="Take it outside. " mp3_slow="takeItOutside.mp3" mp3_normal="takeItOutside.mp3" catalog_id="1"/>
+    <phrase local_text="Nói với tôi." en_text="Tell me. " mp3_slow="tellMe.mp3" mp3_normal="tellMe.mp3" catalog_id="1"/>
+    <phrase local_text="Cám ơn cô." en_text="Thank you miss. " mp3_slow="thankYouMiss.mp3" mp3_normal="thankYouMiss.mp3" catalog_id="1"/>
+    <phrase local_text="Cám ơn ông." en_text="Thank you sir. " mp3_slow="thankYouSir.mp3" mp3_normal="thankYouSir.mp3" catalog_id="1"/>
+    <phrase local_text="Cám ơn rất nhiều." en_text="Thank you very much. " mp3_slow="thankYouVeryMuch.mp3" mp3_normal="thankYouVeryMuch.mp3" catalog_id="1"/>
+    <phrase local_text="Cám ơn." en_text="Thank you. " mp3_slow="thankYou.mp3" mp3_normal="thankYou.mp3" catalog_id="1"/>
+    <phrase local_text="Cám ơn về mọi việc." en_text="Thanks for everything. " mp3_slow="thanksForEverything.mp3" mp3_normal="thanksForEverything.mp3" catalog_id="1"/>
+    <phrase local_text="Cám ơn về sự giúp đỡ của bạn." en_text="Thanks for your help. " mp3_slow="thanksForYourHelp.mp3" mp3_normal="thanksForYourHelp.mp3" catalog_id="1"/>
+    <phrase local_text="Cái đó trông tuyệt." en_text="That looks great. " mp3_slow="thatLooksGreat.mp3" mp3_normal="thatLooksGreat.mp3" catalog_id="1"/>
+    <phrase local_text="Cái đó ngửi hôi." en_text="That smells bad. " mp3_slow="thatSmellsBad.mp3" mp3_normal="thatSmellsBad.mp3" catalog_id="1"/>
+    <phrase local_text="Được thôi." en_text="That's alright. " mp3_slow="thatsAlright.mp3" mp3_normal="thatsAlright.mp3" catalog_id="1"/>
+    <phrase local_text="Như vậy đủ rồi." en_text="That's enough. " mp3_slow="thatsEnough.mp3" mp3_normal="thatsEnough.mp3" catalog_id="1"/>
+    <phrase local_text="Như vậy tốt rồi." en_text="That's fine. " mp3_slow="thatsFine.mp3" mp3_normal="thatsFine.mp3" catalog_id="1"/>
+    <phrase local_text="Như vậy đó." en_text="That's it. " mp3_slow="thatsIt.mp3" mp3_normal="thatsIt.mp3" catalog_id="1"/>
+    <phrase local_text="Như vậy không công bằng." en_text="That's not fair. " mp3_slow="thatsNotFair.mp3" mp3_normal="thatsNotFair.mp3" catalog_id="1"/>
+    <phrase local_text="Như vậy không đúng." en_text="That's not right. " mp3_slow="thatsNotRight.mp3" mp3_normal="thatsNotRight.mp3" catalog_id="1"/>
+    <phrase local_text="Đúng rồi." en_text="That's right. " mp3_slow="thatsRight.mp3" mp3_normal="thatsRight.mp3" catalog_id="1"/>
+    <phrase local_text="Như vậy quá tệ." en_text="That's too bad. " mp3_slow="thatsTooBad.mp3" mp3_normal="thatsTooBad.mp3" catalog_id="1"/>
+    <phrase local_text="Như vậy nhiều quá." en_text="That's too many. " mp3_slow="thatsTooMany.mp3" mp3_normal="thatsTooMany.mp3" catalog_id="1"/>
+    <phrase local_text="Như vậy nhiều quá." en_text="That's too much. " mp3_slow="thatsTooMuch.mp3" mp3_normal="thatsTooMuch.mp3" catalog_id="1"/>
+    <phrase local_text="Quyển sácch ở dưới cái bàn." en_text="The book is under the table. " mp3_slow="theBookIsUnderTheTable.mp3" mp3_normal="theBookIsUnderTheTable.mp3" catalog_id="1"/>
+    <phrase local_text="Họ sẽ trở lại ngay." en_text="They'll be right back. " mp3_slow="theyllBeRightBack.mp3" mp3_normal="theyllBeRightBack.mp3" catalog_id="1"/>
+    <phrase local_text="Chúng giống nhau." en_text="They're the same. " mp3_slow="theyreTheSame.mp3" mp3_normal="theyreTheSame.mp3" catalog_id="1"/>
+    <phrase local_text="Họ rất bận." en_text="They're very busy. " mp3_slow="theyreVeryBusy.mp3" mp3_normal="theyreVeryBusy.mp3" catalog_id="1"/>
+    <phrase local_text="Cái này không hoạt động." en_text="This doesn't work. " mp3_slow="thisDoesntWork.mp3" mp3_normal="thisDoesntWork.mp3" catalog_id="1"/>
+    <phrase local_text="Cái này rất khó." en_text="This is very difficult. " mp3_slow="thisIsVeryDifficult.mp3" mp3_normal="thisIsVeryDifficult.mp3" catalog_id="1"/>
+    <phrase local_text="Điều này rất quan trọng." en_text="This is very important. " mp3_slow="thisIsVeryImportant.mp3" mp3_normal="thisIsVeryImportant.mp3" catalog_id="1"/>
+    <phrase local_text="Thử nó." en_text="Try it. " mp3_slow="tryIt.mp3" mp3_normal="tryIt.mp3" catalog_id="1"/>
+    <phrase local_text="Rất tốt, cám ơn." en_text="Very good, thanks. " mp3_slow="veryGoodThanks.mp3" mp3_normal="veryGoodThanks.mp3" catalog_id="1"/>
+    <phrase local_text="Chúng tôi thích nó lắm." en_text="We like it very much. " mp3_slow="weLikeItVeryMuch.mp3" mp3_normal="weLikeItVeryMuch.mp3" catalog_id="1"/>
+    <phrase local_text="Bạn nhận giùm một tin nhắn được không?" en_text="Would you take a message please? " mp3_slow="wouldYouMakeAMessagePlease.mp3" mp3_normal="wouldYouMakeAMessagePlease.mp3" catalog_id="1"/>
+    <phrase local_text="Vâng, thực sự." en_text="Yes, really. " mp3_slow="yesReally.mp3" mp3_normal="yesReally.mp3" catalog_id="1"/>
+    <phrase local_text="Tất cả đồ của bạn ở đây." en_text="Your things are all here. " mp3_slow="youreThingsAreAllThere.mp3" mp3_normal="youreThingsAreAllThere.mp3" catalog_id="1"/>
+    <phrase local_text="Bạn đẹp." en_text="You're beautiful. " mp3_slow="youreBeautiful.mp3" mp3_normal="youreBeautiful.mp3" catalog_id="1"/>
+    <phrase local_text="Bạn rất dễ thương." en_text="You're very nice. " mp3_slow="youreVeryNice.mp3" mp3_normal="youreVeryNice.mp3" catalog_id="1"/>
+    <phrase local_text="Bạn rất thông minh." en_text="You're very smart. " mp3_slow="youreVerySmart.mp3" mp3_normal="youreVerySmart.mp3" catalog_id="1"/>
+    <phrase local_text="Dĩ nhiên!" en_text="Certainly! " mp3_slow="certinly.mp3" mp3_normal="certinly.mp3" catalog_id="2"/>
+    <phrase local_text="Chào (buổi chiều)" en_text="Good afternoon. " mp3_slow="goodAfternoon.mp3" mp3_normal="goodAfternoon.mp3" catalog_id="2"/>
+    <phrase local_text="Chào ông (buổi tối)" en_text="Good evening sir. " mp3_slow="goodEveningSir.mp3" mp3_normal="goodEveningSir.mp3" catalog_id="2"/>
+    <phrase local_text="Chúc may mắn." en_text="Good Luck. " mp3_slow="goodLuck.mp3" mp3_normal="goodLuck.mp3" catalog_id="2"/>
+    <phrase local_text="Chào (buổi sáng)" en_text="Good morning. " mp3_slow="goodMorning.mp3" mp3_normal="goodMorning.mp3" catalog_id="2"/>
+    <phrase local_text="Tuyệt." en_text="Great. " mp3_slow="great.mp3" mp3_normal="great.mp3" catalog_id="2"/>
+    <phrase local_text="Chúc mừng sinh nhật." en_text="Happy Birthday. " mp3_slow="happyBirthday.mp3" mp3_normal="happyBirthday.mp3" catalog_id="2"/>
+    <phrase local_text="Chúc một chuyến đi tốt đẹp." en_text="Have a good trip. " mp3_slow="haveAGoodTrip.mp3" mp3_normal="haveAGoodTrip.mp3" catalog_id="2"/>
+    <phrase local_text="Chào." en_text="Hello. " mp3_slow="hello.mp3" mp3_normal="hello.mp3" catalog_id="2"/>
+    <phrase local_text="Rất vui được gặp bạn." en_text="Nice to meet you " mp3_slow="niceToMeetYou.mp3" mp3_normal="niceToMeetYou.mp3" catalog_id="2"/>
+    <phrase local_text="Làm ơn gọi cho tôi." en_text="Please call me. " mp3_slow="pleaseCallMe.mp3" mp3_normal="pleaseCallMe.mp3" catalog_id="2"/>
+    <phrase local_text="Nó ở phía bắc nơi này." en_text="It's north of here. " mp3_slow="itsNorthOfHere.mp3" mp3_normal="itsNorthOfHere.mp3" catalog_id="3"/>
+    <phrase local_text="Chuyến đi thế nào?" en_text="How was the trip? " mp3_slow="howWasTheTrip.mp3" mp3_normal="howWasTheTrip.mp3" catalog_id="3"/>
+    <phrase local_text="Tùy vào thời tiết." en_text="It depends on the weather. " mp3_slow="itDependsOnTheWeather.mp3" mp3_normal="itDependsOnTheWeather.mp3" catalog_id="3"/>
+    <phrase local_text="Vé một chiều." en_text="A one way ticket. " mp3_slow="aOneWayTicket.mp3" mp3_normal="aOneWayTicket.mp3" catalog_id="3"/>
+    <phrase local_text="Vé khứ hồi." en_text="A round trip ticket. " mp3_slow="aRoundTripTicket.mp3" mp3_normal="aRoundTripTicket.mp3" catalog_id="3"/>
+    <phrase local_text="Khoảng 300 cây số." en_text="About 300 kilometers. " mp3_slow="about300Kilometers.mp3" mp3_normal="about300Kilometers.mp3" catalog_id="3"/>
+    <phrase local_text="Bạn sẽ giúp cô ta không?" en_text="Are you going to help her? " mp3_slow="areYouGoingToHelpHer.mp3" mp3_normal="areYouGoingToHelpHer.mp3" catalog_id="3"/>
+    <phrase local_text="Lúc mấy giờ?" en_text="At what time? " mp3_slow="atWhatTime.mp3" mp3_normal="atWhatTime.mp3" catalog_id="3"/>
+    <phrase local_text="Tôi có thể xin hẹn vào thứ tư tới không?" en_text="Can I make an appointment for next Wednesday? " mp3_slow="canIMakeAnAppointmentForNextWednesday.mp3" mp3_normal="canIMakeAnAppointmentForNextWednesday.mp3" catalog_id="3"/>
+    <phrase local_text="Bạn có thể lập lại điều đó được không?" en_text="Can you repeat that please? " mp3_slow="canYouRepeatThatPlease.mp3" mp3_normal="canYouRepeatThatPlease.mp3" catalog_id="3"/>
+    <phrase local_text="Bạn có đủ tiền không?" en_text="Do you have enough money? " mp3_slow="doYouHaveEnoughMoney.mp3" mp3_normal="doYouHaveEnoughMoney.mp3" catalog_id="3"/>
+    <phrase local_text="Bạn có biết nấu ăn không?" en_text="Do you know how to cook? " mp3_slow="doYouKnowHowToCook.mp3" mp3_normal="doYouKnowHowToCook.mp3" catalog_id="3"/>
+    <phrase local_text="Bạn có biết cái này nói gì không?" en_text="Do you know what this says? " mp3_slow="doYouKnowWhatThisSays.mp3" mp3_normal="doYouKnowWhatThisSays.mp3" catalog_id="3"/>
+    <phrase local_text="Bạn có muốn tôi tới đón bạn không?" en_text="Do you want me to come and pick you up? " mp3_slow="doYouWantMeToComeAndPickMeUp.mp3" mp3_normal="doYouWantMeToComeAndPickMeUp.mp3" catalog_id="3"/>
+    <phrase local_text="Con đường này có tới New York không?" en_text="Does this road go to New York? " mp3_slow="doesThisRoadGoToNY.mp3" mp3_normal="doesThisRoadGoToNY.mp3" catalog_id="3"/>
+    <phrase local_text="Theo tôi." en_text="Follow me. " mp3_slow="followMe.mp3" mp3_normal="followMe.mp3" catalog_id="3"/>
+    <phrase local_text="Từ đây đến đó." en_text="From here to there. " mp3_slow="fromHereToThere.mp3" mp3_normal="fromHereToThere.mp3" catalog_id="3"/>
+    <phrase local_text="Đi thẳng trước mặt." en_text="Go straight ahead. " mp3_slow="goStraightAhead.mp3" mp3_normal="goStraightAhead.mp3" catalog_id="3"/>
+    <phrase local_text="Bạn tới chưa?" en_text="Have you arrived? " mp3_slow="haveYouArrived.mp3" mp3_normal="haveYouArrived.mp3" catalog_id="3"/>
+    <phrase local_text="Bạn từng tới Boston chưa?" en_text="Have you been to Boston? " mp3_slow="haveYouBeenToBoston.mp3" mp3_normal="haveYouBeenToBoston.mp3" catalog_id="3"/>
+    <phrase local_text="Làm sao tôi tới đó?" en_text="How do I get there? " mp3_slow="howDoIGetThere.mp3" mp3_normal="howDoIGetThere.mp3" catalog_id="3"/>
+    <phrase local_text="Làm sao tôi tới đường Daniel?" en_text="How do I get to Daniel Street? " mp3_slow="howDoIGetToDanielStreet.mp3" mp3_normal="howDoIGetToDanielStreet.mp3" catalog_id="3"/>
+    <phrase local_text="Làm sao tôi tới tòa đại sứ Mỹ?" en_text="How do I get to the American Embassy? " mp3_slow="howDoIGetToTheAmericanEmbassy.mp3" mp3_normal="howDoIGetToTheAmericanEmbassy.mp3" catalog_id="3"/>
+    <phrase local_text="Đi bằng xe mất bao lâu?" en_text="How long does it take by car? " mp3_slow="howLongDoesItTakeByCar.mp3" mp3_normal="howLongDoesItTakeByCar.mp3" catalog_id="3"/>
+    <phrase local_text="Tới Georgia mất bao lâu?" en_text="How long does it take to get to Georgia? " mp3_slow="howLongDoesItTakeToGetToGeorgia.mp3" mp3_normal="howLongDoesItTakeToGetToGeorgia.mp3" catalog_id="3"/>
+    <phrase local_text="Chuyến bay bao lâu?" en_text="How long is the flight? " mp3_slow="howLongIsTheFlight.mp3" mp3_normal="howLongIsTheFlight.mp3" catalog_id="3"/>
+    <phrase local_text="Bộ phim thế nào?" en_text="How was the movie? " mp3_slow="howWasTheMovie.mp3" mp3_normal="howWasTheMovie.mp3" catalog_id="3"/>
+    <phrase local_text="Tôi có câu hỏi muốn hỏi bạn/ Tôi muốn hỏi bạn một câu hỏi." en_text="I have a question I want to ask you./ I want to ask you a question. " mp3_slow="IHaveAQuestionIWantToAskYou.mp3" mp3_normal="IHaveAQuestionIWantToAskYou.mp3" catalog_id="3"/>
+    <phrase local_text="Tôi ước gì có một cái." en_text="I wish I had one. " mp3_slow="IWishIHadOne.mp3" mp3_normal="IWishIHadOne.mp3" catalog_id="3"/>
+    <phrase local_text="Tôi muốn gọi điện thoại." en_text="I'd like to make a phone call. " mp3_slow="idLikeToMakeAPhoneCall.mp3" mp3_normal="idLikeToMakeAPhoneCall.mp3" catalog_id="3"/>
+    <phrase local_text="Tôi muốn đặt trước." en_text="I'd like to make a reservation. " mp3_slow="IdLikeToMakeAReservation.mp3" mp3_normal="IdLikeToMakeAReservation.mp3" catalog_id="3"/>
+    <phrase local_text="Tôi cũng sẽ mua cái đó." en_text="I'll take that one also. " mp3_slow="illTakeThatOneAlso.mp3" mp3_normal="illTakeThatOneAlso.mp3" catalog_id="3"/>
+    <phrase local_text="Tôi tới ngay." en_text="I'm coming right now. " mp3_slow="imComingRightNow.mp3" mp3_normal="imComingRightNow.mp3" catalog_id="3"/>
+    <phrase local_text="Tôi sẽ đi về nhà trong vòng 4 ngày." en_text="I'm going home in four days. " mp3_slow="imGoingHomeInFourDays.mp3" mp3_normal="imGoingHomeInFourDays.mp3" catalog_id="3"/>
+    <phrase local_text="Ngày mai tôi sẽ đi." en_text="I'm leaving Tomorrow. " mp3_slow="ImLeavingTomorrow.mp3" mp3_normal="ImLeavingTomorrow.mp3" catalog_id="3"/>
+    <phrase local_text="Tôi đang tìm bưu điện." en_text="I'm looking for the post office. " mp3_slow="ImLookingForThePostOffice.mp3" mp3_normal="ImLookingForThePostOffice.mp3" catalog_id="3"/>
+    <phrase local_text="Cái bút này có phải của bạn không?" en_text="Is this pen yours? " mp3_slow="isThisPenYours.mp3" mp3_normal="isThisPenYours.mp3" catalog_id="3"/>
+    <phrase local_text="Một vé đi New York, xin vui lòng." en_text="One ticket to New York please. " mp3_slow="oneTicketToNYPlease.mp3" mp3_normal="oneTicketToNYPlease.mp3" catalog_id="3"/>
+    <phrase local_text="Một chiều hay khứ hồi?" en_text="One way or round trip? " mp3_slow="oneWayOrRoundTrip.mp3" mp3_normal="oneWayOrRoundTrip.mp3" catalog_id="3"/>
+    <phrase local_text="Làm ơn nói chậm hơn." en_text="Please speak slower. " mp3_slow="pleaseSpeakSlower.mp3" mp3_normal="pleaseSpeakSlower.mp3" catalog_id="3"/>
+    <phrase local_text="Làm ơn đưa tôi tới phi trường." en_text="Please take me to the airport. " mp3_slow="pleaseTakeMeToTheAirport.mp3" mp3_normal="pleaseTakeMeToTheAirport.mp3" catalog_id="3"/>
+    <phrase local_text="Lối đó." en_text="That way. " mp3_slow="thatWay.mp3" mp3_normal="thatWay.mp3" catalog_id="3"/>
+    <phrase local_text="Máy bay cất cánh lúc 5:30 chiều." en_text="The plane departs at 5:30P. " mp3_slow="thePlaneDepartsAt530.mp3" mp3_normal="thePlaneDepartsAt530.mp3" catalog_id="3"/>
+    <phrase local_text="Họ tới ngày hôm qua." en_text="They arrived yesterday. " mp3_slow="theyArrivedYesterday.mp3" mp3_normal="theyArrivedYesterday.mp3" catalog_id="3"/>
+    <phrase local_text="Quay lại." en_text="Turn around. " mp3_slow="turnAround.mp3" mp3_normal="turnAround.mp3" catalog_id="3"/>
+    <phrase local_text="Rẽ trái." en_text="Turn left. " mp3_slow="turnLeft.mp3" mp3_normal="turnLeft.mp3" catalog_id="3"/>
+    <phrase local_text="Rẽ phải." en_text="Turn right. " mp3_slow="turnRight.mp3" mp3_normal="turnRight.mp3" catalog_id="3"/>
+    <phrase local_text="Mấy giờ bạn sẽ ra trạm xe buýt?" en_text="What time are you going to the bus station? " mp3_slow="whatTimeAreYouGoingToTheBusStation.mp3" mp3_normal="whatTimeAreYouGoingToTheBusStation.mp3" catalog_id="3"/>
+    <phrase local_text="Việc này xảy ra khi nào?" en_text="When did this happen? " mp3_slow="whenDidThisHappen.mp3" mp3_normal="whenDidThisHappen.mp3" catalog_id="3"/>
+    <phrase local_text="Bạn đã tới Boston khi nào?" en_text="When did you arrive in Boston? " mp3_slow="whenDidYouArriveInBoston.mp3" mp3_normal="whenDidYouArriveInBoston.mp3" catalog_id="3"/>
+    <phrase local_text="Khi nào chúng ta tới nơi?" en_text="When do we arrive? " mp3_slow="whenDoWeArrive.mp3" mp3_normal="whenDoWeArrive.mp3" catalog_id="3"/>
+    <phrase local_text="Khi nào chúng ta ra đi?" en_text="When do we leave? " mp3_slow="whenDoesItLeave.mp3" mp3_normal="whenDoesItLeave.mp3" catalog_id="3"/>
+    <phrase local_text="Khi nào anh ta tới?" en_text="When does he arrive? " mp3_slow="whenDoesHeArrive.mp3" mp3_normal="whenDoesHeArrive.mp3" catalog_id="3"/>
+    <phrase local_text="Khi nào nó tới?" en_text="When does it arrive? " mp3_slow="whenDoesItArrive.mp3" mp3_normal="whenDoesItArrive.mp3" catalog_id="3"/>
+    <phrase local_text="Khi nào ngân hàng mở cửa?" en_text="When does the bank open? " mp3_slow="whenDoesTheBankOpen.mp3" mp3_normal="whenDoesTheBankOpen.mp3" catalog_id="3"/>
+    <phrase local_text="Khi nào xe buýt khởi hành?" en_text="When does the bus leave? " mp3_slow="whenDoesTheBusLeave.mp3" mp3_normal="whenDoesTheBusLeave.mp3" catalog_id="3"/>
+    <phrase local_text="Tôi có thể gửi bưu điện cái này ở đâu?" en_text="Where can I mail this? " mp3_slow="whereCanIMailThis.mp3" mp3_normal="whereCanIMailThis.mp3" catalog_id="3"/>
+    <phrase local_text="Cô ta từ đâu tới?" en_text="Where is she from? " mp3_slow="whereIsSheFrom.mp3" mp3_normal="whereIsSheFrom.mp3" catalog_id="3"/>
+    <phrase local_text="Phòng tắm ở đâu?" en_text="Where is the bathroom? " mp3_slow="whereIsTheBathroom.mp3" mp3_normal="whereIsTheBathroom.mp3" catalog_id="3"/>
+    <phrase local_text="Tại sao không?" en_text="Why not? " mp3_slow="whyNot.mp3" mp3_normal="whyNot.mp3" catalog_id="3"/>
+    <phrase local_text="Làm ơn nhắc tôi." en_text="Will you remind me? " mp3_slow="willYouRemindMe.mp3" mp3_normal="willYouRemindMe.mp3" catalog_id="3"/>
+    <phrase local_text="Hối suất bao nhiêu?" en_text="What's the exchange rate? " mp3_slow="whatsTheExchangeRate.mp3" mp3_normal="whatsTheExchangeRate.mp3" catalog_id="4"/>
+    <phrase local_text="11 đô." en_text="11 dollars. " mp3_slow="11Dollars.mp3" mp3_normal="_11Dollars.mp3" catalog_id="4"/>
+    <phrase local_text="52 xu." en_text="52 cents. " mp3_slow="52Cents.mp3" mp3_normal="_52Cents.mp3" catalog_id="4"/>
+    <phrase local_text="Một vài." en_text="A few. " mp3_slow="aFew.mp3" mp3_normal="aFew.mp3" catalog_id="4"/>
+    <phrase local_text="Một ít." en_text="A little. " mp3_slow="aLittle.mp3" mp3_normal="aLittle.mp3" catalog_id="4"/>
+    <phrase local_text="Gọi cảnh sát." en_text="Call the police. " mp3_slow="callThePolice.mp3" mp3_normal="callThePolice.mp3" catalog_id="4"/>
+    <phrase local_text="Vợ của bạn có thích California không?" en_text="Did your wife like California? " mp3_slow="didYourWifeLikeCalifornia.mp3" mp3_normal="didYourWifeLikeCalifornia.mp3" catalog_id="4"/>
+    <phrase local_text="Bạn có cà phê không?" en_text="Do you have any coffee? " mp3_slow="doYouHaveAnyCoffee.mp3" mp3_normal="doYouHaveAnyCoffee.mp3" catalog_id="4"/>
+    <phrase local_text="Bạn có thứ gì rẻ hơn không?" en_text="Do you have anything cheaper? " mp3_slow="doYouHaveAnythingCheaper.mp3" mp3_normal="doYouHaveAnythingCheaper.mp3" catalog_id="4"/>
+    <phrase local_text="Bạn có nhận thẻ tín dụng không?" en_text="Do you take credit cards? " mp3_slow="doYouTakeCreditCards.mp3" mp3_normal="doYouTakeCreditCards.mp3" catalog_id="4"/>
+    <phrase local_text="Bạn trả bằng gì?" en_text="How are you paying? " mp3_slow="howAreYouPaying.mp3" mp3_normal="howAreYouPaying.mp3" catalog_id="4"/>
+    <phrase local_text="Ở New York có bao nhiêu người?" en_text="How many people are there in New York? " mp3_slow="howManyPeopleAreThereInNY.mp3" mp3_normal="howManyPeopleAreThereInNY.mp3" catalog_id="4"/>
+    <phrase local_text="Đôi bông tai này giá bao nhiêu?" en_text="How much are these earrings? " mp3_slow="howMuchAreTheseEarrings.mp3" mp3_normal="howMuchAreTheseEarrings.mp3" catalog_id="4"/>
+    <phrase local_text="Tôi nợ bạn bao nhiêu?" en_text="How much do I owe you? " mp3_slow="howMuchDoIOweYou.mp3" mp3_normal="howMuchDoIOweYou.mp3" catalog_id="4"/>
+    <phrase local_text="Giá bao nhiêu một ngày?" en_text="How much does it cost per day? " mp3_slow="howMuchDoesItCostPerDay.mp3" mp3_normal="howMuchDoesItCostPerDay.mp3" catalog_id="4"/>
+    <phrase local_text="Nó giá bao nhiêu?" en_text="How much does this cost? " mp3_slow="howMuchDoesThisCost.mp3" mp3_normal="howMuchDoesThisCost.mp3" catalog_id="4"/>
+    <phrase local_text="Tới Miami giá bao nhiêu?" en_text="How much is it to go to Miami? " mp3_slow="howMuchIsItToGoToMiami.mp3" mp3_normal="howMuchIsItToGoToMiami.mp3" catalog_id="4"/>
+    <phrase local_text="Bạn kiếm bao nhiêu tiền?" en_text="How much money do you make? " mp3_slow="howMuchMoneyDoYouMake.mp3" mp3_normal="howMuchMoneyDoYouMake.mp3" catalog_id="4"/>
+    <phrase local_text="Tôi không có bạn gái." en_text="I don't have a girlfriend. " mp3_slow="iDontHaveAGirlfriend.mp3" mp3_normal="iDontHaveAGirlfriend.mp3" catalog_id="4"/>
+    <phrase local_text="Tôi không có tiền." en_text="I don't have any money. " mp3_slow="iDontHaveAnyMoney.mp3" mp3_normal="iDontHaveAnyMoney.mp3" catalog_id="4"/>
+    <phrase local_text="Tôi đã đặt trước." en_text="I have a reservation. " mp3_slow="IHaveAReservation.mp3" mp3_normal="IHaveAReservation.mp3" catalog_id="4"/>
+    <phrase local_text="Tôi cần thực hành tiếng Anh." en_text="I need to practice my English. " mp3_slow="INeedToPracticeMyEnglish.mp3" mp3_normal="INeedToPracticeMyEnglish.mp3" catalog_id="4"/>
+    <phrase local_text="Tôi muốn ăn ở nhà hàng trên đường số 5." en_text="I'd like to eat at 5th street restaurant. " mp3_slow="IdLikeToEatAt5thStreetRestaurant.mp3" mp3_normal="IdLikeToEatAt5thStreetRestaurant.mp3" catalog_id="4"/>
+    <phrase local_text="Tôi sẽ có cùng món như vậy." en_text="I'll have the same thing. " mp3_slow="illHaveTheSameThing.mp3" mp3_normal="illHaveTheSameThing.mp3" catalog_id="4"/>
+    <phrase local_text="Tôi sẽ trả tiền cho bữa tối." en_text="I'll pay for dinner. " mp3_slow="illPayForDinner.mp3" mp3_normal="illPayForDinner.mp3" catalog_id="4"/>
+    <phrase local_text="Tôi sẽ trả tiền vé." en_text="I'll pay for the tickets. " mp3_slow="illPayForTheTickets.mp3" mp3_normal="illPayForTheTickets.mp3" catalog_id="4"/>
+    <phrase local_text="Tôi 26 tuổi." en_text="I'm 26 years old. " mp3_slow="im26YearsOld.mp3" mp3_normal="im26YearsOld.mp3" catalog_id="4"/>
+    <phrase local_text="Như vậy được không?" en_text="Is that ok? " mp3_slow="isThatOk.mp3" mp3_normal="isThatOk.mp3" catalog_id="4"/>
+    <phrase local_text="Có thư cho tôi Akhông?" en_text="Is there any mail for me? " mp3_slow="isThereAnyMailForMe.mp3" mp3_normal="isThereAnyMailForMe.mp3" catalog_id="4"/>
+    <phrase local_text="Phải không?" en_text="Isn't it? " mp3_slow="isntIt.mp3" mp3_normal="isntIt.mp3" catalog_id="4"/>
+    <phrase local_text="Bây giờ là 11:30 tối." en_text="It's 11:30pm. " mp3_slow="its1130.mp3" mp3_normal="its1130.mp3" catalog_id="4"/>
+    <phrase local_text="Bây giờ là 9 giờ 15." en_text="It's is a quarter past nine. " mp3_slow="itsAQuarterPast9.mp3" mp3_normal="itsAQuarterPast9.mp3" catalog_id="4"/>
+    <phrase local_text="Làm ơn vào đi." en_text="Please come in. " mp3_slow="pleaseComeIn.mp3" mp3_normal="pleaseComeIn.mp3" catalog_id="4"/>
+    <phrase local_text="Xin lỗi, chúng tôi không nhận thẻ tín dụng." en_text="Sorry, we don't accept credit cards. " mp3_slow="sorryWeDontAcceptCreditCards.mp3" mp3_normal="sorryWeDontAcceptCreditCards.mp3" catalog_id="4"/>
+    <phrase local_text="Xin lỗi, chúng tôi chỉ nhận tiền mặt." en_text="Sorry, we only accept Cash. " mp3_slow="sorryWeOnlyAcceptCash.mp3" mp3_normal="sorryWeOnlyAcceptCash.mp3" catalog_id="4"/>
+    <phrase local_text="Nhà hàng đó không đắt." en_text="That restaurant is not expensive. " mp3_slow="thatRestaurantIsNotExpensive.mp3" mp3_normal="thatRestaurantIsNotExpensive.mp3" catalog_id="4"/>
+    <phrase local_text="Như vậy đắt quá." en_text="That's too expensive. " mp3_slow="thatsTooExpensive.mp3" mp3_normal="thatsTooExpensive.mp3" catalog_id="4"/>
+    <phrase local_text="Ở đây có nhiều người." en_text="There are many people here. " mp3_slow="thereAreManyPeopleHere.mp3" mp3_normal="thereAreManyPeopleHere.mp3" catalog_id="4"/>
+    <phrase local_text="Họ tính 26 đô một ngày." en_text="They charge 26 dollars per day. " mp3_slow="theyCharge26DollarsPerDay.mp3" mp3_normal="theyCharge26DollarsPerDay.mp3" catalog_id="4"/>
+    <phrase local_text="Hối suất đô la là bao nhiêu?" en_text="What's the exchange rate for dollars? " mp3_slow="whatsTheExcahngeRateForDollars.mp3" mp3_normal="whatsTheExcahngeRateForDollars.mp3" catalog_id="4"/>
+    <phrase local_text="Số điện thoại là gì?" en_text="What's the phone number? " mp3_slow="whatsThePhoneNumber.mp3" mp3_normal="whatsThePhoneNumber.mp3" catalog_id="4"/>
+    <phrase local_text="Tôi có thể mua vé ở đâu?" en_text="Where can I buy tickets? " mp3_slow="whereCanIBuyTickets.mp3" mp3_normal="whereCanIBuyTickets.mp3" catalog_id="4"/>
+    <phrase local_text="Bạn muốn gặp nhau ở đâu?" en_text="Where would you like to meet? " mp3_slow="whereWouldYouLikeToMeet.mp3" mp3_normal="whereWouldYouLikeToMeet.mp3" catalog_id="4"/>
+    <phrase local_text="Cái nào tốt hơn?" en_text="Which one is better? " mp3_slow="whichOneIsBetter.mp3" mp3_normal="whichOneIsBetter.mp3" catalog_id="4"/>
+    <phrase local_text="Nó ở đằng kia." en_text="It's over there. " mp3_slow="itsOverThere.mp3" mp3_normal="itsOverThere.mp3" catalog_id="5"/>
+    <phrase local_text="Nó cách xa đây." en_text="It's far from here. " mp3_slow="itsFarFromHere.mp3" mp3_normal="itsFarFromHere.mp3" catalog_id="5"/>
+    <phrase local_text="Nó gần không?" en_text="Is it close? " mp3_slow="isItClose.mp3" mp3_normal="isItClose.mp3" catalog_id="5"/>
+    <phrase local_text="Nó không xa lắm." en_text="It's not too far. " mp3_slow="itsNotTooFar.mp3" mp3_normal="itsNotTooFar.mp3" catalog_id="5"/>
+    <phrase local_text="Ngân hàng có xa không?" en_text="Is the bank far? " mp3_slow="isTheBankFar.mp3" mp3_normal="isTheBankFar.mp3" catalog_id="5"/>
+    <phrase local_text="Đối diện bưu điện." en_text="Across from the post office. " mp3_slow="acrossFromThePostOffice.mp3" mp3_normal="acrossFromThePostOffice.mp3" catalog_id="5"/>
+    <phrase local_text="Lúc 3 giờ." en_text="At 3 o'clock. " mp3_slow="at3Oclock.mp3" mp3_normal="at3Oclock.mp3" catalog_id="5"/>
+    <phrase local_text="Hãy yên lặng." en_text="Be quiet. " mp3_slow="beQuiet.mp3" mp3_normal="beQuiet.mp3" catalog_id="5"/>
+    <phrase local_text="Bạn có thể đề nghị một nhà hàng ngon không?" en_text="Can you recommend a good restaurant? " mp3_slow="canYouRecommendAGoodRestaurant.mp3" mp3_normal="canYouRecommendAGoodRestaurant.mp3" catalog_id="5"/>
+    <phrase local_text="Anh ta học ở đại học Boston." en_text="He studies at Boston University. " mp3_slow="heStudiesAtBostonUniversity.mp3" mp3_normal="heStudiesAtBostonUniversity.mp3" catalog_id="5"/>
+    <phrase local_text="Nó đây." en_text="Here it is. " mp3_slow="hereItIs.mp3" mp3_normal="hereItIs.mp3" catalog_id="5"/>
+    <phrase local_text="Đây nè." en_text="Here you are. " mp3_slow="hereYouAre.mp3" mp3_normal="hereYouAre.mp3" catalog_id="5"/>
+    <phrase local_text="Anh ta ở trong bếp." en_text="He's in the kitchen. " mp3_slow="hesInTheKitchen.mp3" mp3_normal="hesInTheKitchen.mp3" catalog_id="5"/>
+    <phrase local_text="Tới Chicago bao xa?" en_text="How far is it to Chicago? " mp3_slow="howFarIsItToChicago.mp3" mp3_normal="howFarIsItToChicago.mp3" catalog_id="5"/>
+    <phrase local_text="Nó bao xa?" en_text="How far is it? " mp3_slow="howFarIsIt.mp3" mp3_normal="howFarIsIt.mp3" catalog_id="5"/>
+    <phrase local_text="Tới Pennsylvania bao nhiêu dặm?" en_text="How many miles is it to Pennsylvania? " mp3_slow="howManyMilesIsItToPenn.mp3" mp3_normal="howManyMilesIsItToPenn.mp3" catalog_id="5"/>
+    <phrase local_text="Tôi thích xem tivi." en_text="I like to watch TV. " mp3_slow="ILikeToWatchTV.mp3" mp3_normal="ILikeToWatchTV.mp3" catalog_id="5"/>
+    <phrase local_text="Tôi sắp đi tới thư viện." en_text="I was going to the library. " mp3_slow="IWasGoingToTheLibrary.mp3" mp3_normal="IWasGoingToTheLibrary.mp3" catalog_id="5"/>
+    <phrase local_text="Tôi ở trong thư viện." en_text="I was in the library. " mp3_slow="IWasInTheLibrary.mp3" mp3_normal="IWasInTheLibrary.mp3" catalog_id="5"/>
+    <phrase local_text="Tôi muốn một phòng đơn." en_text="I'd like a single room. " mp3_slow="IdLikeASingleRoom.mp3" mp3_normal="IdLikeASingleRoom.mp3" catalog_id="5"/>
+    <phrase local_text="Món này ngon!" en_text="It's delicious! " mp3_slow="itsDelicious.mp3" mp3_normal="itsDelicious.mp3" catalog_id="5"/>
+    <phrase local_text="Bây giờ là 11 giờ rưỡi." en_text="It's half past 11. " mp3_slow="itsHalfPast11.mp3" mp3_normal="itsHalfPast11.mp3" catalog_id="5"/>
+    <phrase local_text="Nó ít hơn 5 đô." en_text="It's less than 5 dollars. " mp3_slow="itsLessThan5Dollars.mp3" mp3_normal="itsLessThan5Dollars.mp3" catalog_id="5"/>
+    <phrase local_text="Nó hơn 5 đô." en_text="It's more than 5 dollars. " mp3_slow="itsMoreThan5Dollars.mp3" mp3_normal="itsMoreThan5Dollars.mp3" catalog_id="5"/>
+    <phrase local_text="Nó gần siêu thị." en_text="It's near the Supermarket. " mp3_slow="itsNearTheSupermarket.mp3" mp3_normal="itsNearTheSupermarket.mp3" catalog_id="5"/>
+    <phrase local_text="Hôm nay có lẽ không mưa." en_text="it's not suppose to rain today. " mp3_slow="itsNotSupposeToRainToday.mp3" mp3_normal="itsNotSupposeToRainToday.mp3" catalog_id="5"/>
+    <phrase local_text="Được rồi." en_text="It's ok. " mp3_slow="itsOk.mp3" mp3_normal="itsOk.mp3" catalog_id="5"/>
+    <phrase local_text="Nó trên đường số 7." en_text="It's on 7th street. " mp3_slow="itsOn7thStreet.mp3" mp3_normal="itsOn7thStreet.mp3" catalog_id="5"/>
+    <phrase local_text="Thực là nóng." en_text="It's really hot. " mp3_slow="itsReallyHot.mp3" mp3_normal="itsReallyHot.mp3" catalog_id="5"/>
+    <phrase local_text="Trời có thể mưa ngày mai." en_text="It's suppose to rain tomorrow. " mp3_slow="itsSupposeToRainTomorrow.mp3" mp3_normal="itsSupposeToRainTomorrow.mp3" catalog_id="5"/>
+    <phrase local_text="Chúng ta đi." en_text="Let's go. " mp3_slow="letsGo.mp3" mp3_normal="letsGo.mp3" catalog_id="5"/>
+    <phrase local_text="Có lẽ." en_text="Maybe. " mp3_slow="maybe.mp3" mp3_normal="maybe.mp3" catalog_id="5"/>
+    <phrase local_text="Hơn 200 dặm." en_text="More than 200 miles. " mp3_slow="moreThan200Miles.mp3" mp3_normal="moreThan200Miles.mp3" catalog_id="5"/>
+    <phrase local_text="Nhà tôi gần ngân hàng." en_text="My house is close to the bank. " mp3_slow="myHouseIsCloseToTheBank.mp3" mp3_normal="myHouseIsCloseToTheBank.mp3" catalog_id="5"/>
+    <phrase local_text="Gần ngân hàng." en_text="Near the bank. " mp3_slow="nearTheBank.mp3" mp3_normal="nearTheBank.mp3" catalog_id="5"/>
+    <phrase local_text="Bên trái." en_text="On the left. " mp3_slow="onTheLeft.mp3" mp3_normal="onTheLeft.mp3" catalog_id="5"/>
+    <phrase local_text="Bên phải." en_text="On the right. " mp3_slow="onTheRight.mp3" mp3_normal="onTheRight.mp3" catalog_id="5"/>
+    <phrase local_text="Trên tầng hai." en_text="On the second floor. " mp3_slow="onTheSecondFloor.mp3" mp3_normal="onTheSecondFloor.mp3" catalog_id="5"/>
+    <phrase local_text="Bên ngoài khách sạn." en_text="Outside the hotel. " mp3_slow="outsideTheHotel.mp3" mp3_normal="outsideTheHotel.mp3" catalog_id="5"/>
+    <phrase local_text="Ở đây." en_text="Over here. " mp3_slow="overHere.mp3" mp3_normal="overHere.mp3" catalog_id="5"/>
+    <phrase local_text="Ở đằng kia." en_text="Over there. " mp3_slow="overThere.mp3" mp3_normal="overThere.mp3" catalog_id="5"/>
+    <phrase local_text="Quyển sách ở sau cái bàn." en_text="The book is behind the table. " mp3_slow="theBookIsBehinedTheTable.mp3" mp3_normal="theBookIsBehinedTheTable.mp3" catalog_id="5"/>
+    <phrase local_text="Quyển sách ở trước cái bàn." en_text="The book is in front of the table. " mp3_slow="theBookIsInFrontOfTheTable.mp3" mp3_normal="theBookIsInFrontOfTheTable.mp3" catalog_id="5"/>
+    <phrase local_text="Quyển sách ở gần cái bàn." en_text="The book is near the table. " mp3_slow="theBookIsNearTheTable.mp3" mp3_normal="theBookIsNearTheTable.mp3" catalog_id="5"/>
+    <phrase local_text="Quyển sách ở cạnh cái bàn." en_text="The book is next to the table. " mp3_slow="theBookIsNextToTheTable.mp3" mp3_normal="theBookIsNextToTheTable.mp3" catalog_id="5"/>
+    <phrase local_text="Quyển sách ở trên mặt bàn." en_text="The book is on top of the table. " mp3_slow="theBookIsOnTopOfTheTable.mp3" mp3_normal="theBookIsOnTopOfTheTable.mp3" catalog_id="5"/>
+    <phrase local_text="Có vài quyển sách trên bàn." en_text="There are some books on the table. " mp3_slow="thereAreSomeBooksOnTheTable.mp3" mp3_normal="thereAreSomeBooksOnTheTable.mp3" catalog_id="5"/>
+    <phrase local_text="Có một quyển sách dưới bàn." en_text="There's a book under the table. " mp3_slow="theresABookUnderTheTable.mp3" mp3_normal="theresABookUnderTheTable.mp3" catalog_id="5"/>
+    <phrase local_text="Chúng tôi từ California." en_text="We're from California. " mp3_slow="wereFromCalifornia.mp3" mp3_normal="wereFromCalifornia.mp3" catalog_id="5"/>
+    <phrase local_text="Địa chỉ là gì?" en_text="What's the address? " mp3_slow="whatsTheAddress.mp3" mp3_normal="whatsTheAddress.mp3" catalog_id="5"/>
+    <phrase local_text="Bạn sẽ đi đâu?" en_text="Where are you going? " mp3_slow="whereAreYouGoing.mp3" mp3_normal="whereAreYouGoing.mp3" catalog_id="5"/>
+    <phrase local_text="Nó ở đâu?" en_text="Where is it? " mp3_slow="whereIsIt.mp3" mp3_normal="whereIsIt.mp3" catalog_id="5"/>
+    <phrase local_text="Bạn muốn đi đâu?" en_text="Where would you like to go? " mp3_slow="whereWouldYouLikeToGo.mp3" mp3_normal="whereWouldYouLikeToGo.mp3" catalog_id="5"/>
+    <phrase local_text="Ai đã thắng?" en_text="Who won? " mp3_slow="whoWon.mp3" mp3_normal="whoWon.mp3" catalog_id="5"/>
+    <phrase local_text="Làm ơn cho xem thông hành của bạn." en_text="Can I see your passport please? " mp3_slow="canISeeYourPassportPlease.mp3" mp3_normal="canISeeYourPassportPlease.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi có thể nhận một lời nhắn không?" en_text="Can I take a message? " mp3_slow="canITakeAMessage.mp3" mp3_normal="canITakeAMessage.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi có thể mặc thử không?" en_text="Can I try it on? " mp3_slow="canITryItOn.mp3" mp3_normal="canITryItOn.mp3" catalog_id="6"/>
+    <phrase local_text="Chúng tôi có thể ngồi ở đằng kia không?" en_text="Can we sit over there? " mp3_slow="canWeSitOverThere.mp3" mp3_normal="canWeSitOverThere.mp3" catalog_id="6"/>
+    <phrase local_text="Bạn tới với gia đình hả?" en_text="Did you come with your family? " mp3_slow="didYouComeWithYourFamily.mp3" mp3_normal="didYouComeWithYourFamily.mp3" catalog_id="6"/>
+    <phrase local_text="Bạn có nghĩ điều đó có thể xảy ra không?" en_text="Do you think it's possible? " mp3_slow="doYouThinkItsPossible.mp3" mp3_normal="doYouThinkItsPossible.mp3" catalog_id="6"/>
+    <phrase local_text="Đây là số của tôi." en_text="Here's my number. " mp3_slow="heresMyNumber.mp3" mp3_normal="heresMyNumber.mp3" catalog_id="6"/>
+    <phrase local_text="Ngay lúc này anh ta không có đây." en_text="He's not in right now. " mp3_slow="hesNotInRightNow.mp3" mp3_normal="hesNotInRightNow.mp3" catalog_id="6"/>
+    <phrase local_text="Chào, có phải bà Smith ở đằng kia không?" en_text="Hi, is Mrs. Smith there, please? " mp3_slow="hiIsMrsSmithTherePlease.mp3" mp3_normal="hiIsMrsSmithTherePlease.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi có ba người con, hai gái một trai." en_text="I have three children, two girls and one boy. " mp3_slow="IHaveThreeChildrenTwoGirlsAndOneBoy.mp3" mp3_normal="IHaveThreeChildrenTwoGirlsAndOneBoy.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi cần một ít khăn giấy." en_text="I need some tissues. " mp3_slow="INeedSomeTissues.mp3" mp3_normal="INeedSomeTissues.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi muốn tặng bạn một món quà." en_text="I want to give you a gift. " mp3_slow="IWantToGiveYouAGift.mp3" mp3_normal="IWantToGiveYouAGift.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi cũng muốn một ít nước, xin vui lòng." en_text="I'd like some water too, please. " mp3_slow="idLikeSomeWaterTooPlease.mp3" mp3_normal="idLikeSomeWaterTooPlease.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi muốn mua một chai nước, xin vui lòng." en_text="I'd like to buy a bottle of water, please. " mp3_slow="IdLikeToBuyABottleOfWaterPlease.mp3" mp3_normal="IdLikeToBuyABottleOfWaterPlease.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi muốn mua một món đồ." en_text="I'd like to buy something. " mp3_slow="IdLikeToBuySomething.mp3" mp3_normal="IdLikeToBuySomething.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi muốn đến cửa hàng." en_text="I'd like to go to the store. " mp3_slow="IdLikeToGoToTheStore.mp3" mp3_normal="IdLikeToGoToTheStore.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi muốn thuê xe hơi." en_text="I'd like to rent a car. " mp3_slow="idLikeToRentACar.mp3" mp3_normal="idLikeToRentACar.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi muốn gửi phắc." en_text="I'd like to send a fax. " mp3_slow="idLikeToSendAFax.mp3" mp3_normal="idLikeToSendAFax.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi muốn gửi cái này đi Mỹ." en_text="I'd like to send this to America. " mp3_slow="idLikeToSendThisToAmerica.mp3" mp3_normal="idLikeToSendThisToAmerica.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi muốn nói chuyện với ông Smith, xin vui lòng." en_text="I'd like to speak to Mr. Smith please. " mp3_slow="idLikeToSpeakToMrSmithPlease.mp3" mp3_normal="idLikeToSpeakToMrSmithPlease.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi sẽ trở lại ngay." en_text="I'll be right back. " mp3_slow="illBeRightBack.mp3" mp3_normal="illBeRightBack.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi sẽ gọi lại sau." en_text="I'll call back later. " mp3_slow="illCallBackLater.mp3" mp3_normal="illCallBackLater.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi sẽ gọi bạn vào thứ sáu." en_text="I'll call you on Friday. " mp3_slow="IllCallYouOnFriday.mp3" mp3_normal="IllCallYouOnFriday.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi sẽ dạy bạn." en_text="I'll teach you. " mp3_slow="illTeachYou.mp3" mp3_normal="illTeachYou.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi ổn." en_text="I'm ok. " mp3_slow="ImOk.mp3" mp3_normal="ImOk.mp3" catalog_id="6"/>
+    <phrase local_text="Có hướng dẫn viên nói tiếng Anh không?" en_text="Is there an English speaking guide? " mp3_slow="isThereAnEnglishSpeakingGuide.mp3" mp3_normal="isThereAnEnglishSpeakingGuide.mp3" catalog_id="6"/>
+    <phrase local_text="Nam hay nữ?" en_text="Male or female? " mp3_slow="maleOrFemale.mp3" mp3_normal="maleOrFemale.mp3" catalog_id="6"/>
+    <phrase local_text="Điện thoại di động của tôi không nhận tín hiệu tốt." en_text="My cell phone doesn't have good reception. " mp3_slow="myCellPhoneDoesntHaveGoodReception.mp3" mp3_normal="myCellPhoneDoesntHaveGoodReception.mp3" catalog_id="6"/>
+    <phrase local_text="Điện thoại di động của tôi bị hỏng." en_text="My cell phone doesn't work. " mp3_slow="myCellPhoneDoesntWork.mp3" mp3_normal="myCellPhoneDoesntWork.mp3" catalog_id="6"/>
+    <phrase local_text="Làm ơn cởi giày ra." en_text="Please take off your shoes. " mp3_slow="pleaseTakeOffYourShoes.mp3" mp3_normal="pleaseTakeOffYourShoes.mp3" catalog_id="6"/>
+    <phrase local_text="Xin lỗi, tôi nghĩ tôi gọi nhầm số." en_text="Sorry, I think I have the wrong number. " mp3_slow="sorryIThinkIHaveTheWrongNumber.mp3" mp3_normal="sorryIThinkIHaveTheWrongNumber.mp3" catalog_id="6"/>
+    <phrase local_text="Mã vùng là bao nhiêu?" en_text="What is the area code? " mp3_slow="whatIsTheAreaCode.mp3" mp3_normal="whatIsTheAreaCode.mp3" catalog_id="6"/>
+    <phrase local_text="Tên của công ty bạn làm việc là gì?" en_text="What's the name of the company you work for? " mp3_slow="whatsTheNameOfTheCompanyYouWorkFor.mp3" mp3_normal="whatsTheNameOfTheCompanyYouWorkFor.mp3" catalog_id="6"/>
+    <phrase local_text="Có gì không ổn?" en_text="What's wrong? " mp3_slow="whatsWrong.mp3" mp3_normal="whatsWrong.mp3" catalog_id="6"/>
+    <phrase local_text="Địa chỉ của bạn là gì?" en_text="What's your address? " mp3_slow="whatsYourAddress.mp3" mp3_normal="whatsYourAddress.mp3" catalog_id="6"/>
+    <phrase local_text="Tôi có thể tìm được một bệnh viện ở đâu?" en_text="Where can I find a hospital? " mp3_slow="whereCanIFindAHospital.mp3" mp3_normal="whereCanIFindAHospital.mp3" catalog_id="6"/>
+    <phrase local_text="Nhà hàng gần nhất ở đâu?" en_text="Where's the closest restaurant? " mp3_slow="wheresTheClosestRestaurant.mp3" mp3_normal="wheresTheClosestRestaurant.mp3" catalog_id="6"/>
+    <phrase local_text="Hiệu thuốc ở đâu?" en_text="Where's the pharmacy? " mp3_slow="wheresThePharmacy.mp3" mp3_normal="wheresThePharmacy.mp3" catalog_id="6"/>
+    <phrase local_text="Bạn là ai?" en_text="Who are you? " mp3_slow="whoAreYou.mp3" mp3_normal="whoAreYou.mp3" catalog_id="6"/>
+    <phrase local_text="Đó là ai?" en_text="Who is that? " mp3_slow="whoIsThat.mp3" mp3_normal="whoIsThat.mp3" catalog_id="6"/>
+    <phrase local_text="Bạn muốn nói chuyện với ai?" en_text="Who would you like to speak to? " mp3_slow="whoWouldYouLikeToSpeakTo.mp3" mp3_normal="whoWouldYouLikeToSpeakTo.mp3" catalog_id="6"/>
+    <phrase local_text="Làm ơn đưa tôi về nhà." en_text="Will you take me home? " mp3_slow="willYouTakeMeHome.mp3" mp3_normal="willYouTakeMeHome.mp3" catalog_id="6"/>
+    <phrase local_text="Bạn muốn uống nước hay sữa?" en_text="Would you like water or milk? " mp3_slow="wouldYouLikeWaterOrMilk.mp3" mp3_normal="wouldYouLikeWaterOrMilk.mp3" catalog_id="6"/>
+    <phrase local_text="Muộn quá rồi." en_text="It's too late. " mp3_slow="itsTooLate.mp3" mp3_normal="itsTooLate.mp3" catalog_id="7"/>
+    <phrase local_text="Trong vòng 30 phút." en_text="In 30 minutes. " mp3_slow="in30Minutes.mp3" mp3_normal="in30Minutes.mp3" catalog_id="7"/>
+    <phrase local_text="Cách đây 11 ngày." en_text="11 days ago. " mp3_slow="11DaysAgo.mp3" mp3_normal="_11DaysAgo.mp3" catalog_id="7"/>
+    <phrase local_text="2 tiếng." en_text="2 hours. " mp3_slow="2Hours.mp3" mp3_normal="_2Hours.mp3" catalog_id="7"/>
+    <phrase local_text="Cách nay đã lâu." en_text="A long time ago. " mp3_slow="aLongTimeAgo.mp3" mp3_normal="aLongTimeAgo.mp3" catalog_id="7"/>
+    <phrase local_text="Suốt ngày." en_text="All day. " mp3_slow="allDay.mp3" mp3_normal="allDay.mp3" catalog_id="7"/>
+    <phrase local_text="Tối nay họ có tới không?" en_text="Are they coming this evening? " mp3_slow="areTheyComingThisEvening.mp3" mp3_normal="areTheyComingThisEvening.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn có thoải mái không?" en_text="Are you comfortable? " mp3_slow="areYouComfortable.mp3" mp3_normal="areYouComfortable.mp3" catalog_id="7"/>
+    <phrase local_text="Con của bạn có đi với bạn không?" en_text="Are your children with you? " mp3_slow="areYourChildrenWithYou.mp3" mp3_normal="areYourChildrenWithYou.mp3" catalog_id="7"/>
+    <phrase local_text="Càng sớm càng tốt." en_text="As soon as possible. " mp3_slow="asSoonAsPossible.mp3" mp3_normal="asSoonAsPossible.mp3" catalog_id="7"/>
+    <phrase local_text="Lúc 3 giờ chiều." en_text="At 3 o'clock in the afternoon. " mp3_slow="at3OclockInTheAfternoon.mp3" mp3_normal="at3OclockInTheAfternoon.mp3" catalog_id="7"/>
+    <phrase local_text="Tại đường số 5." en_text="At 5th street. " mp3_slow="at5thStreet.mp3" mp3_normal="at5thStreet.mp3" catalog_id="7"/>
+    <phrase local_text="Lúc 7 giờ tối." en_text="At 7 o'clock at night. " mp3_slow="at7OclockAtNight.mp3" mp3_normal="at7OclockAtNight.mp3" catalog_id="7"/>
+    <phrase local_text="Lúc 7 giờ sáng." en_text="At 7 o'clock in the morning. " mp3_slow="at7OclockInTheMorning.mp3" mp3_normal="at7OclockInTheMorning.mp3" catalog_id="7"/>
+    <phrase local_text="Việc đó xảy ra lúc mấy giờ?" en_text="At what time did it happen? " mp3_slow="atWhatTimeDidItHappen.mp3" mp3_normal="atWhatTimeDidItHappen.mp3" catalog_id="7"/>
+    <phrase local_text="Tôi có thể giúp gì bạn?" en_text="Can I help you? " mp3_slow="canIHelpYou.mp3" mp3_normal="canIHelpYou.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn có hồ bơi không?" en_text="Do you have a swimming pool? " mp3_slow="doYouHaveASwimmingPool.mp3" mp3_normal="doYouHaveASwimmingPool.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn có món này cỡ 11 không?" en_text="Do you have this in size 11? " mp3_slow="doYouHaveThisInSize11.mp3" mp3_normal="doYouHaveThisInSize11.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn có nghĩ là bạn sẽ trở lại lúc 11:30 không?" en_text="Do you think you'll be back by 11:30? " mp3_slow="doYouThinkYoullBeBackBy1130.mp3" mp3_normal="doYouThinkYoullBeBackBy1130.mp3" catalog_id="7"/>
+    <phrase local_text="Hàng tuần." en_text="Every week. " mp3_slow="everyWeek.mp3" mp3_normal="everyWeek.mp3" catalog_id="7"/>
+    <phrase local_text="Hàng ngày tôi dạy lúc 6 giờ sáng." en_text="Everyday I get up at 6AM. " mp3_slow="EverydayIGetUpAt6.mp3" mp3_normal="EverydayIGetUpAt6.mp3" catalog_id="7"/>
+    <phrase local_text="Ngày hết hạn." en_text="Expiration date. " mp3_slow="experationDate.mp3" mp3_normal="experationDate.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn đợi đã lâu chưa?" en_text="Have you been waiting long? " mp3_slow="haveYouBeenWaitingLong.mp3" mp3_normal="haveYouBeenWaitingLong.mp3" catalog_id="7"/>
+    <phrase local_text="Anh ta sẽ trở lại trong vòng 20 phút nữa." en_text="He'll be back in 20 minutes. " mp3_slow="hellBeBackIn20Minutes.mp3" mp3_normal="hellBeBackIn20Minutes.mp3" catalog_id="7"/>
+    <phrase local_text="Gia đình anh ta sẽ tới vào ngày mai." en_text="His family is coming tomorrow. " mp3_slow="hisFamilyIsComingTomorrow.mp3" mp3_normal="hisFamilyIsComingTomorrow.mp3" catalog_id="7"/>
+    <phrase local_text="Còn thứ bảy thì sao?" en_text="How about Saturday? " mp3_slow="howAboutSaturday.mp3" mp3_normal="howAboutSaturday.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn sẽ ở California bao lâu?" en_text="How long are you going to stay in California? " mp3_slow="howLongAreYouGoingToStayInalifornia.mp3" mp3_normal="howLongAreYouGoingToStayInalifornia.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn sẽ ở bao lâu?" en_text="How long are you going to stay? " mp3_slow="howLongAreYouGoingToStay.mp3" mp3_normal="howLongAreYouGoingToStay.mp3" catalog_id="7"/>
+    <phrase local_text="Sẽ mất bao lâu?" en_text="How long will it take? " mp3_slow="howLongWillItTake.mp3" mp3_normal="howLongWillItTake.mp3" catalog_id="7"/>
+    <phrase local_text="Tất cả bao nhiêu?" en_text="How much altogether? " mp3_slow="howMuchAllTogether.mp3" mp3_normal="howMuchAllTogether.mp3" catalog_id="7"/>
+    <phrase local_text="Sẽ tốn bao nhiêu?" en_text="How much will it cost? " mp3_slow="howMuchWillItCost.mp3" mp3_normal="howMuchWillItCost.mp3" catalog_id="7"/>
+    <phrase local_text="Tôi không có đủ tiền." en_text="I don't have enough money. " mp3_slow="iDontHaveEnoughMoney.mp3" mp3_normal="iDontHaveEnoughMoney.mp3" catalog_id="7"/>
+    <phrase local_text="Tôi chuẩn bị đi." en_text="I'm getting ready to go out. " mp3_slow="imGettingReadyToGoOut.mp3" mp3_normal="imGettingReadyToGoOut.mp3" catalog_id="7"/>
+    <phrase local_text="Tôi chỉ xem thôi. (mua sắm)" en_text="I'm just looking. " mp3_slow="ImJustLooking.mp3" mp3_normal="ImJustLooking.mp3" catalog_id="7"/>
+    <phrase local_text="Tôi cũng lo." en_text="I'm worried too. " mp3_slow="ImWorriedToo.mp3" mp3_normal="ImWorriedToo.mp3" catalog_id="7"/>
+    <phrase local_text="Hôm nay trời mưa rất lớn." en_text="It rained very hard today. " mp3_slow="itRainedVeryHardToday.mp3" mp3_normal="itRainedVeryHardToday.mp3" catalog_id="7"/>
+    <phrase local_text="Tối nay trời sẽ lạnh." en_text="It'll be cold this evening. " mp3_slow="itllBeColdThisEvening.mp3" mp3_normal="itllBeColdThisEvening.mp3" catalog_id="7"/>
+    <phrase local_text="Giá 17 đồng." en_text="It's 17 dollars. " mp3_slow="its17Dollars.mp3" mp3_normal="its17Dollars.mp3" catalog_id="7"/>
+    <phrase local_text="Bây giờ là 6 giờ sáng." en_text="It's 6AM. " mp3_slow="its6.mp3" mp3_normal="its6.mp3" catalog_id="7"/>
+    <phrase local_text="Bây giờ là 8:45." en_text="It's 8:45. " mp3_slow="its845.mp3" mp3_normal="its845.mp3" catalog_id="7"/>
+    <phrase local_text="Bây giờ là 7 giờ thiếu 15." en_text="It's a quarter to 7. " mp3_slow="itsAQuarterTo7.mp3" mp3_normal="itsAQuarterTo7.mp3" catalog_id="7"/>
+    <phrase local_text="Hôm nay trời sẽ mưa tuyết." en_text="It's going to snow today. " mp3_slow="itsGoingToSnowToday.mp3" mp3_normal="itsGoingToSnowToday.mp3" catalog_id="7"/>
+    <phrase local_text="Nó đây." en_text="It's here. " mp3_slow="itsHere.mp3" mp3_normal="itsHere.mp3" catalog_id="7"/>
+    <phrase local_text="Nó ở đó." en_text="It's there. " mp3_slow="itsThere.mp3" mp3_normal="itsThere.mp3" catalog_id="7"/>
+    <phrase local_text="Tôi đã xem nó." en_text="I've already seen it. " mp3_slow="IveAlreadySeenIt.mp3" mp3_normal="IveAlreadySeenIt.mp3" catalog_id="7"/>
+    <phrase local_text="Ngày mai John sẽ đi nghỉ mát." en_text="John is going on vacation tomorrow. " mp3_slow="johnIsGoingOnVacationTomorrow.mp3" mp3_normal="johnIsGoingOnVacationTomorrow.mp3" catalog_id="7"/>
+    <phrase local_text="Sinh nhật của tôi là 27 tháng 8." en_text="My birthday is August 27th. " mp3_slow="myBirthdayIsAugust27.mp3" mp3_normal="myBirthdayIsAugust27.mp3" catalog_id="7"/>
+    <phrase local_text="Bây giờ hoặc sau?" en_text="Now or later? " mp3_slow="nowOrLater.mp3" mp3_normal="nowOrLater.mp3" catalog_id="7"/>
+    <phrase local_text="22 tháng mười." en_text="October 22nd. " mp3_slow="october22.mp3" mp3_normal="october22.mp3" catalog_id="7"/>
+    <phrase local_text="Cô ta muốn biết khi nào bạn tới." en_text="She wants to know when you're coming. " mp3_slow="sheWantsToKnowWhenYourComing.mp3" mp3_normal="sheWantsToKnowWhenYourComing.mp3" catalog_id="7"/>
+    <phrase local_text="Thỉnh thoảng tôi đi ngủ lúc 11 giờ tối, thỉnh thoảng 11:30." en_text="Sometimes I go to sleep at 11PM, sometimes at 11:30PM. " mp3_slow="sometimesIGoToSleepAt11SometimesAt1130.mp3" mp3_normal="sometimesIGoToSleepAt11SometimesAt1130.mp3" catalog_id="7"/>
+    <phrase local_text="Cả ngày." en_text="The whole day. " mp3_slow="theWholeDay.mp3" mp3_normal="theWholeDay.mp3" catalog_id="7"/>
+    <phrase local_text="Có nhiều thời gian." en_text="There's plenty of time. " mp3_slow="theresPlentyOfTime.mp3" mp3_normal="theresPlentyOfTime.mp3" catalog_id="7"/>
+    <phrase local_text="Chúng ta trễ." en_text="We're late. " mp3_slow="wereLate.mp3" mp3_normal="wereLate.mp3" catalog_id="7"/>
+    <phrase local_text="Ngày nào họ sẽ tới?" en_text="What day are they coming over? " mp3_slow="whatDayAreTheyComingOver.mp3" mp3_normal="whatDayAreTheyComingOver.mp3" catalog_id="7"/>
+    <phrase local_text="Hôm nay là thứ mấy?" en_text="What day of the week is it? " mp3_slow="whatDayOfTheWeekIsIt.mp3" mp3_normal="whatDayOfTheWeekIsIt.mp3" catalog_id="7"/>
+    <phrase local_text="Hôm nay ngày mấy?" en_text="What is today's date? " mp3_slow="whatIsTodaysDate.mp3" mp3_normal="whatIsTodaysDate.mp3" catalog_id="7"/>
+    <phrase local_text="Mấy giờ họ sẽ tới?" en_text="What time are they arriving? " mp3_slow="whatTimeAreTheyArriving.mp3" mp3_normal="whatTimeAreTheyArriving.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn đã thức dậy lúc mấy giờ?" en_text="What time did you get up? " mp3_slow="whatTimeDidYouGetUp.mp3" mp3_normal="whatTimeDidYouGetUp.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn đã đi ngủ lúc mấy giờ?" en_text="What time did you go to sleep? " mp3_slow="whatTimeDidYouGoToSleep.mp3" mp3_normal="whatTimeDidYouGoToSleep.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn tỉnh giấc lúc mấy giờ?" en_text="What time did you wake up? " mp3_slow="whatTimeDidYouWakeUp.mp3" mp3_normal="whatTimeDidYouWakeUp.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn nghĩ bạn sẽ tới lúc mấy giờ?" en_text="What time do you think you'll arrive? " mp3_slow="whatTimeDoYouThinkYoullArrive.mp3" mp3_normal="whatTimeDoYouThinkYoullArrive.mp3" catalog_id="7"/>
+    <phrase local_text="Mấy giờ nó bắt đầu?" en_text="What time does it start? " mp3_slow="whatTimeDoesItStart.mp3" mp3_normal="whatTimeDoesItStart.mp3" catalog_id="7"/>
+    <phrase local_text="Bây giờ là mấy giờ?" en_text="What time is it? " mp3_slow="whatTimeIsIt.mp3" mp3_normal="whatTimeIsIt.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn theo tôn giáo nào?" en_text="What's your religion? " mp3_slow="whatsYourreligion.mp3" mp3_normal="whatsYourreligion.mp3" catalog_id="7"/>
+    <phrase local_text="Khi nào họ tới?" en_text="When are they coming? " mp3_slow="whenAreTheyComing.mp3" mp3_normal="whenAreTheyComing.mp3" catalog_id="7"/>
+    <phrase local_text="Khi nào bạn trở lại?" en_text="When are you coming back? " mp3_slow="whenAreYouComingBack.mp3" mp3_normal="whenAreYouComingBack.mp3" catalog_id="7"/>
+    <phrase local_text="Khi nào bạn đón người bạn của bạn?" en_text="When are you going to pick up your friend? " mp3_slow="whenAreYouGoingToPickUpYourFriend.mp3" mp3_normal="whenAreYouGoingToPickUpYourFriend.mp3" catalog_id="7"/>
+    <phrase local_text="Khi nào bạn ra đi?" en_text="When are you leaving? " mp3_slow="whenAreYouLeaving.mp3" mp3_normal="whenAreYouLeaving.mp3" catalog_id="7"/>
+    <phrase local_text="Khi nào bạn chuyển bđi?" en_text="When are you moving? " mp3_slow="whenAreYouMoving.mp3" mp3_normal="whenAreYouMoving.mp3" catalog_id="7"/>
+    <phrase local_text="Khi tôi tới cửa hàng, họ không có táo." en_text="When I went to the store, they didn't have any apples. " mp3_slow="whenIWentToTheStoreTheyDidntHaveAnyApples.mp3" mp3_normal="whenIWentToTheStoreTheyDidntHaveAnyApples.mp3" catalog_id="7"/>
+    <phrase local_text="Chuyến xe buýt kế tiếp đi Philadelphia khi nào?" en_text="When is the next bus to Philidalphia? " mp3_slow="whenIsTheNextBuToPhiladelphia.mp3" mp3_normal="whenIsTheNextBuToPhiladelphia.mp3" catalog_id="7"/>
+    <phrase local_text="Sinh nhật bạn khi nào?" en_text="When is your birthday? " mp3_slow="whenIsYourBirthday.mp3" mp3_normal="whenIsYourBirthday.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn nói chuyện với mẹ bạn lần cuối khi nào?" en_text="When was the last time you talked to your mother? " mp3_slow="whenWasTheLastTimeYouTalkedToYourMother.mp3" mp3_normal="whenWasTheLastTimeYouTalkedToYourMother.mp3" catalog_id="7"/>
+    <phrase local_text="Khi nào anh ta sẽ trở lại?" en_text="When will he be back? " mp3_slow="whenWillHeBeBack.mp3" mp3_normal="whenWillHeBeBack.mp3" catalog_id="7"/>
+    <phrase local_text="Khi nào nó sẽ sẵn sàng?" en_text="When will it be ready? " mp3_slow="whenWillItBeReady.mp3" mp3_normal="whenWillItBeReady.mp3" catalog_id="7"/>
+    <phrase local_text="Bạn sẽ đi đâu?" en_text="Where are you going to go? " mp3_slow="whereAreYouGoingToGo.mp3" mp3_normal="whereAreYouGoingToGo.mp3" catalog_id="7"/>
+    <phrase local_text="Giá phòng bao nhiêu?" en_text="What's the room rate? " mp3_slow="whatsTheRoomRate.mp3" mp3_normal="whatsTheRoomRate.mp3" catalog_id="8"/>
+    <phrase local_text="Tôi nghĩ bạn có nhiều quần áo quá." en_text="I think you have too many clothes. " mp3_slow="IThinkYouHaveTooManyClothes.mp3" mp3_normal="IThinkYouHaveTooManyClothes.mp3" catalog_id="8"/>
+    <phrase local_text="Bạn ở đâu?" en_text="Where are you? " mp3_slow="whereAreYou.mp3" mp3_normal="whereAreYou.mp3" catalog_id="8"/>
+    <phrase local_text="Bạn có bận không?" en_text="Are you busy? " mp3_slow="areYouBusy.mp3" mp3_normal="areYouBusy.mp3" catalog_id="8"/>
+    <phrase local_text="Làm ơn cho thêm ít bánh mì." en_text="Can we have some more bread please? " mp3_slow="canWeHaveSomeMoreBreadPlease.mp3" mp3_normal="canWeHaveSomeMoreBreadPlease.mp3" catalog_id="8"/>
+    <phrase local_text="Bạn có tiền không?" en_text="Do you have any money? " mp3_slow="doYouHaveAnyMoney.mp3" mp3_normal="doYouHaveAnyMoney.mp3" catalog_id="8"/>
+    <phrase local_text="Giá 20 đô một giờ." en_text="It costs 20 dollars per hour. " mp3_slow="itCosts20DollarsPerHour.mp3" mp3_normal="itCosts20DollarsPerHour.mp3" catalog_id="8"/>
+    <phrase local_text="Cho mấy đêm?" en_text="For how many nights? " mp3_slow="forHowManyNights.mp3" mp3_normal="forHowManyNights.mp3" catalog_id="8"/>
+    <phrase local_text="Bạn sẽ ở bao lâu?" en_text="How long will you be staying? " mp3_slow="howLongWillYouBeStaying.mp3" mp3_normal="howLongWillYouBeStaying.mp3" catalog_id="8"/>
+    <phrase local_text="Tôi cần một bác sĩ." en_text="I need a doctor. " mp3_slow="INeedADoctor.mp3" mp3_normal="INeedADoctor.mp3" catalog_id="8"/>
+    <phrase local_text="Tôi muốn một tấm bản đồ của thành phố." en_text="I'd like a map of the city. " mp3_slow="idLikeAMapOfTheCity.mp3" mp3_normal="idLikeAMapOfTheCity.mp3" catalog_id="8"/>
+    <phrase local_text="Tôi muốn một phòng không hút thuốc." en_text="I'd like a non-smoking room. " mp3_slow="IdLikeANonSmokingRoom.mp3" mp3_normal="IdLikeANonSmokingRoom.mp3" catalog_id="8"/>
+    <phrase local_text="Tôi muốn một phòng với 2 giường, xin vui lòng." en_text="I'd like a room with two beds please. " mp3_slow="IdLikeARoomWith2BedsPlease.mp3" mp3_normal="IdLikeARoomWith2BedsPlease.mp3" catalog_id="8"/>
+    <phrase local_text="Tôi muốn một phòng." en_text="I'd like a room. " mp3_slow="IdLikeARoom.mp3" mp3_normal="IdLikeARoom.mp3" catalog_id="8"/>
+    <phrase local_text="Có hộp đêm trong thị xã không?" en_text="Is there a nightclub in town? " mp3_slow="isThereANightClubInTown.mp3" mp3_normal="isThereANightClubInTown.mp3" catalog_id="8"/>
+    <phrase local_text="Trong khách sạn có nhà hàng không?" en_text="Is there a restaurant in the hotel? " mp3_slow="isThereARestaurantInTheHotel.mp3" mp3_normal="isThereARestaurantInTheHotel.mp3" catalog_id="8"/>
+    <phrase local_text="Có cửa hàng gần đây không?" en_text="Is there a store near here? " mp3_slow="isThereAStoreNearHere.mp3" mp3_normal="isThereAStoreNearHere.mp3" catalog_id="8"/>
+    <phrase local_text="Xin lỗi, chúng tôi không còn phòng trống." en_text="Sorry, we don't have any vacanies. " mp3_slow="sorryWeDontHaveAnyVaccanies.mp3" mp3_normal="sorryWeDontHaveAnyVaccanies.mp3" catalog_id="8"/>
+    <phrase local_text="Đưa tôi tới khách sạn Marriott." en_text="Take me to the Marriott Hotel. " mp3_slow="takeMeToTheMarriottHotel.mp3" mp3_normal="takeMeToTheMarriottHotel.mp3" catalog_id="8"/>
+    <phrase local_text="Mấy giờ trả phòng?" en_text="What time is check out? " mp3_slow="whatTimeIsCheckout.mp3" mp3_normal="whatTimeIsCheckout.mp3" catalog_id="8"/>
+    <phrase local_text="Giá bao nhiêu một đêm? (Khách sạn)" en_text="What's the charge per night? (Hotel) " mp3_slow="whatsTheChargePerNight.mp3" mp3_normal="whatsTheChargePerNight.mp3" catalog_id="8"/>
+    <phrase local_text="Phi trường ở đâu?" en_text="Where is the airport? " mp3_slow="whereIsTheAirport.mp3" mp3_normal="whereIsTheAirport.mp3" catalog_id="8"/>
+    <phrase local_text="Hộp thư ở đâu?" en_text="Where's the mail box? " mp3_slow="wheresTheMailBox.mp3" mp3_normal="wheresTheMailBox.mp3" catalog_id="8"/>
+    <phrase local_text="Tôi có nhiều việc phải làm." en_text="I have a lot of things to do. " mp3_slow="IHaveALotOfThingsToDo.mp3" mp3_normal="IHaveALotOfThingsToDo.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi làm cái bánh này." en_text="I made this cake. " mp3_slow="IMadeThisCake.mp3" mp3_normal="IMadeThisCake.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi no rồi." en_text="I'm full. " mp3_slow="imFull.mp3" mp3_normal="imFull.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn muốn ăn thứ gì không?" en_text="Would you like something to eat? " mp3_slow="wouldYouLikeSomethingToEat.mp3" mp3_normal="wouldYouLikeSomethingToEat.mp3" catalog_id="9"/>
+    <phrase local_text="Thức ăn ưa thích của bạn là gì?" en_text="What's your favorite food? " mp3_slow="whatsYourFavoriateFood.mp3" mp3_normal="whatsYourFavoriateFood.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn muốn ăn tối với tôi không?" en_text="Would you like to have dinner with me? " mp3_slow="wouldYouLikeToHaveDinnerWithMe.mp3" mp3_normal="wouldYouLikeToHaveDinnerWithMe.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn ở đây một mình hả?" en_text="Are you here alone? " mp3_slow="areYouHereAlone.mp3" mp3_normal="areYouHereAlone.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi có thể mang theo bạn không?" en_text="Can I bring my friend? " mp3_slow="canIBringAFriend.mp3" mp3_normal="canIBringAFriend.mp3" catalog_id="9"/>
+    <phrase local_text="Làm ơn cho tôi hóa đơn." en_text="Can I have a receipt please? " mp3_slow="canIHaveARecieptPlease.mp3" mp3_normal="canIHaveARecieptPlease.mp3" catalog_id="9"/>
+    <phrase local_text="Có thể rẻ hơn không?" en_text="Can it be cheaper? " mp3_slow="canItBeCheaper.mp3" mp3_normal="canItBeCheaper.mp3" catalog_id="9"/>
+    <phrase local_text="Làm ơn đưa xem thực đơn." en_text="Can we have a menu please. " mp3_slow="canWeHaveAMenuPlease.mp3" mp3_normal="canWeHaveAMenuPlease.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn có thể giữ giùm tôi cái này được không?" en_text="Can you hold this for me? " mp3_slow="canYouHoldThisForMe.mp3" mp3_normal="canYouHoldThisForMe.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn có con không?" en_text="Do you have any children? " mp3_slow="doYouHaveAnyChildren.mp3" mp3_normal="doYouHaveAnyChildren.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn có biết nó giá bao nhiêu không?" en_text="Do you know how much it costs? " mp3_slow="doYouKnowHowMuchItCosts.mp3" mp3_normal="doYouKnowHowMuchItCosts.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn đã ăn ở nhà hàng này chưa?" en_text="Have you eaten at that restaurant? " mp3_slow="haveYouEatenAtThatRestaurant.mp3" mp3_normal="haveYouEatenAtThatRestaurant.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn đã ăn chưa?" en_text="Have you eaten yet? " mp3_slow="haveYouEatenYet.mp3" mp3_normal="haveYouEatenYet.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn đã từng ăn xúp khoai chưa?" en_text="Have you ever had Potato soup? " mp3_slow="haveYouEverHadPotatoSoup.mp3" mp3_normal="haveYouEverHadPotatoSoup.mp3" catalog_id="9"/>
+    <phrase local_text="Anh ta thích nước trái cây nhưng anh ta không thích sữa." en_text="He likes juice but he doesn't like milk " mp3_slow="heLIkesJuiceButHeDoesntLikeMilk.mp3" mp3_normal="heLIkesJuiceButHeDoesntLikeMilk.mp3" catalog_id="9"/>
+    <phrase local_text="Rau của bạn đây." en_text="Here is your salad. " mp3_slow="heresYourSalad.mp3" mp3_normal="heresYourSalad.mp3" catalog_id="9"/>
+    <phrase local_text="Đây là món hàng bạn đặt." en_text="Here's your order. " mp3_slow="heresYourOrder.mp3" mp3_normal="heresYourOrder.mp3" catalog_id="9"/>
+    <phrase local_text="Nó có vị ra sao?" en_text="How does it taste? " mp3_slow="howDoesItTaste.mp3" mp3_normal="howDoesItTaste.mp3" catalog_id="9"/>
+    <phrase local_text="Bao nhiêu người? (nhà hàng)" en_text="How many people? " mp3_slow="howManyPeople.mp3" mp3_normal="howManyPeople.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi đồng ý." en_text="I agree. " mp3_slow="iAgree.mp3" mp3_normal="iAgree.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi đã không ở đó." en_text="I haven't been there. " mp3_slow="IHaventBeenThere.mp3" mp3_normal="IHaventBeenThere.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi chưa ăn xong." en_text="I haven't finished eating. " mp3_slow="IHaventFinishedEating.mp3" mp3_normal="IHaventFinishedEating.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi thích nó." en_text="I like it. " mp3_slow="ILikeIt.mp3" mp3_normal="ILikeIt.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi chỉ có 51 đô la." en_text="I only have 5 dollars. " mp3_slow="IOnlyHave5Dollars.mp3" mp3_normal="IOnlyHave5Dollars.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi nghĩ tôi cần gặp bác sĩ." en_text="I think I need to see a doctor. " mp3_slow="IThinkINeedToSeeADoctor.mp3" mp3_normal="IThinkINeedToSeeADoctor.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi hiểu." en_text="I understand. " mp3_slow="IUnderstand.mp3" mp3_normal="IUnderstand.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi muốn một phòng gần cửa sổ." en_text="I'd like a table near the window. " mp3_slow="IdLikeATableNearTheWindow.mp3" mp3_normal="IdLikeATableNearTheWindow.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi muốn gọi sang Mỹ." en_text="I'd like to call the United States. " mp3_slow="idLikeToCallTheUnitedStates.mp3" mp3_normal="idLikeToCallTheUnitedStates.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi sẽ gọi điện cho bạn." en_text="I'll give you a call. " mp3_slow="illGiveYouACall.mp3" mp3_normal="illGiveYouACall.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi sẽ uống một tách trà, xin vui lòng." en_text="I'll have a cup of tea please. " mp3_slow="illHaveACupOfTeaPlease.mp3" mp3_normal="illHaveACupOfTeaPlease.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi sẽ uống một ly nước, xin vui lòng." en_text="I'll have a glass of water please. " mp3_slow="illHaveAGlassOfWaterPlease.mp3" mp3_normal="illHaveAGlassOfWaterPlease.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi từ Mỹ tới." en_text="I'm from America. " mp3_slow="imFromAmerica.mp3" mp3_normal="imFromAmerica.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi sẽ đi ngủ." en_text="I'm going to bed. " mp3_slow="ImGoingToBed.mp3" mp3_normal="ImGoingToBed.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi ở đây để làm ăn." en_text="I'm here on business. " mp3_slow="ImHereOnBusiness.mp3" mp3_normal="ImHereOnBusiness.mp3" catalog_id="9"/>
+    <phrase local_text="Tôi rất tiếc." en_text="I'm sorry. " mp3_slow="ImSorry.mp3" mp3_normal="ImSorry.mp3" catalog_id="9"/>
+    <phrase local_text="Hôm nay là 25 tháng 8." en_text="It's August 25th. " mp3_slow="itsAugust25th.mp3" mp3_normal="itsAugust25th.mp3" catalog_id="9"/>
+    <phrase local_text="Mùng 3 tháng 6." en_text="June 3rd. " mp3_slow="june3rd.mp3" mp3_normal="june3rd.mp3" catalog_id="9"/>
+    <phrase local_text="Thức ăn ngon." en_text="The food was delicious. " mp3_slow="theFoodWasDelicious.mp3" mp3_normal="theFoodWasDelicious.mp3" catalog_id="9"/>
+    <phrase local_text="Có vài trái táo trong tủ lạnh." en_text="There are some apples in the refrigerator. " mp3_slow="thereAreSomeApplesInTheRefrigerator.mp3" mp3_normal="thereAreSomeApplesInTheRefrigerator.mp3" catalog_id="9"/>
+    <phrase local_text="Có một nhà hàng gần đây." en_text="There's a restaurant near here. " mp3_slow="theresARestaurantNearHere.mp3" mp3_normal="theresARestaurantNearHere.mp3" catalog_id="9"/>
+    <phrase local_text="Có một nhà hàng ở đằng kia, nhưng tôi không nghĩ là nó ngon lắm." en_text="There's a restaurant over there, but I don't think it's very good. " mp3_slow="theresARestaurantOverThereButIDontThinkItsVeryGood.mp3" mp3_normal="theresARestaurantOverThereButIDontThinkItsVeryGood.mp3" catalog_id="9"/>
+    <phrase local_text="Anh phục vụ!" en_text="Waiter! " mp3_slow="waiter.mp3" mp3_normal="waiter.mp3" catalog_id="9"/>
+    <phrase local_text="Cô phục vụ!" en_text="Waitress! " mp3_slow="waitress.mp3" mp3_normal="waitress.mp3" catalog_id="9"/>
+    <phrase local_text="Chúng tôi có thể ăn thức ăn Ý hoặc Trung Hoa." en_text="We can eat Italian or Chinese food. " mp3_slow="weCanEatItalianOrChineseFood.mp3" mp3_normal="weCanEatItalianOrChineseFood.mp3" catalog_id="9"/>
+    <phrase local_text="Chúng tôi sẽ dùng 2 ly nước, xin vui lòng." en_text="We'll have two glasses of water please. " mp3_slow="wellHaveTwoGlassesOfWaterPlease.mp3" mp3_normal="wellHaveTwoGlassesOfWaterPlease.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn sẽ dùng gì?" en_text="What are you going to have? " mp3_slow="whatAreYouGoingToHave.mp3" mp3_normal="whatAreYouGoingToHave.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn đề nghị gì?" en_text="What do you recommend? " mp3_slow="whatDoYouRecommend.mp3" mp3_normal="whatDoYouRecommend.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn muốn uống gì?" en_text="What would you like to drink? " mp3_slow="whatWouldYouLikeToDrink.mp3" mp3_normal="whatWouldYouLikeToDrink.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn muốn ăn gì?" en_text="What would you like to eat? " mp3_slow="whatWouldYouLikeToEat.mp3" mp3_normal="whatWouldYouLikeToEat.mp3" catalog_id="9"/>
+    <phrase local_text="Địa chỉ email của bạn là gì?" en_text="What's your email address? " mp3_slow="whatsYourEmailAddress.mp3" mp3_normal="whatsYourEmailAddress.mp3" catalog_id="9"/>
+    <phrase local_text="Máy rút tiền tự động ở đâu?" en_text="Where is an ATM? " mp3_slow="whereIsAnATM.mp3" mp3_normal="whereIsAnATM.mp3" catalog_id="9"/>
+    <phrase local_text="Ở đâu có một bác sĩ nói tiếng Anh?" en_text="Where is there a doctor who speaks English? " mp3_slow="whereIsThereADoctorWhoSpeaksEnglish.mp3" mp3_normal="whereIsThereADoctorWhoSpeaksEnglish.mp3" catalog_id="9"/>
+    <phrase local_text="Cái nào?" en_text="Which one? " mp3_slow="whichOne.mp3" mp3_normal="whichOne.mp3" catalog_id="9"/>
+    <phrase local_text="Làm ơn nói anh ta tới đây." en_text="Would you ask him to come here? " mp3_slow="wouldYouAskHimToComeHere.mp3" mp3_normal="wouldYouAskHimToComeHere.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn muốn một ly nước không?" en_text="Would you like a glass of water? " mp3_slow="wouldYouLikeAGlassOfWater.mp3" mp3_normal="wouldYouLikeAGlassOfWater.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn muốn uống cà phê hay trà?" en_text="Would you like coffee or tea? " mp3_slow="wouldYouLikeCoffeeOrTea.mp3" mp3_normal="wouldYouLikeCoffeeOrTea.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn muốn một ít nước không?" en_text="Would you like some water? " mp3_slow="wouldYouLikeSomeWater.mp3" mp3_normal="wouldYouLikeSomeWater.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn muốn một ít rượu không?" en_text="Would you like some wine? " mp3_slow="wouldYouLikeSomeWine.mp3" mp3_normal="wouldYouLikeSomeWine.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn muốn uống thứ gì không?" en_text="Would you like something to drink? " mp3_slow="wouldYouLikeSomethingToDrink.mp3" mp3_normal="wouldYouLikeSomethingToDrink.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn muốn đi dạo không?" en_text="Would you like to go for a walk? " mp3_slow="wouldYouLikeToGoForAWalk.mp3" mp3_normal="wouldYouLikeToGoForAWalk.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn muốn xem tivi không?" en_text="Would you like to watch TV? " mp3_slow="wouldYouLikeToWatchTV.mp3" mp3_normal="wouldYouLikeToWatchTV.mp3" catalog_id="9"/>
+    <phrase local_text="Bạn có một chiếc xe rất đẹp." en_text="You have a very nice car. " mp3_slow="youHaveAVeryNiceCar.mp3" mp3_normal="youHaveAVeryNiceCar.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn trông giống em gái (chị) của tôi." en_text="You look like my sister. " mp3_slow="youLookLikeMySister.mp3" mp3_normal="youLookLikeMySister.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn đã gửi hoa cho tôi hả?" en_text="Did you send me flowers? " mp3_slow="didYouSendMeFlowers.mp3" mp3_normal="didYouSendMeFlowers.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi là giáo viên." en_text="I'm a teacher. " mp3_slow="imATeacher.mp3" mp3_normal="imATeacher.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có biết cô ta không?" en_text="Do you know her? " mp3_slow="doYouKnowHer.mp3" mp3_normal="doYouKnowHer.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có biết cô ấy ở đâu không?" en_text="Do you know where she is? " mp3_slow="doYouKnowWhereSheIs.mp3" mp3_normal="doYouKnowWhereSheIs.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi tin bạn." en_text="I believe you. " mp3_slow="iBelieveYou.mp3" mp3_normal="iBelieveYou.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi nghĩ anh ta đã nói một điều gì khác." en_text="I thought he said something else. " mp3_slow="IThoughtHeSaidSomethingElse.mp3" mp3_normal="IThoughtHeSaidSomethingElse.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi độc thân." en_text="I'm single. " mp3_slow="ImSingle.mp3" mp3_normal="ImSingle.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn cao bao nhiêu?" en_text="How tall are you? " mp3_slow="howTallAreYou.mp3" mp3_normal="howTallAreYou.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có phải là người Mỹ không?" en_text="Are you American? " mp3_slow="areYouAmerican.mp3" mp3_normal="areYouAmerican.mp3" catalog_id="10"/>
+    <phrase local_text="Tối nay bạn tới không?" en_text="Are you coming this evening? " mp3_slow="areYouComingThisEvening.mp3" mp3_normal="areYouComingThisEvening.mp3" catalog_id="10"/>
+    <phrase local_text="Tối nay bạn rảnh không?" en_text="Are you free tonight? " mp3_slow="areYouFreeTonight.mp3" mp3_normal="areYouFreeTonight.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn sẽ đi máy bay hay tàu hỏa?" en_text="Are you going to take a plane or train? " mp3_slow="areYouGoingToTakeAPlaneOrTrain.mp3" mp3_normal="areYouGoingToTakeAPlaneOrTrain.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có đói không?" en_text="Are you hungry? " mp3_slow="areYouHungry.mp3" mp3_normal="areYouHungry.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn chắc không?" en_text="Are you sure? " mp3_slow="areYouSure.mp3" mp3_normal="areYouSure.mp3" catalog_id="10"/>
+    <phrase local_text="Ngày mai bạn có làm việc không?" en_text="Are you working Tomorrow? " mp3_slow="areYouWorkingTomorrow.mp3" mp3_normal="areYouWorkingTomorrow.mp3" catalog_id="10"/>
+    <phrase local_text="Chúc sức khỏe!" en_text="Cheers! " mp3_slow="cheers.mp3" mp3_normal="cheers.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có nhận được email của tôi không?" en_text="Did you get my email? " mp3_slow="didYouGetMyEmail.mp3" mp3_normal="didYouGetMyEmail.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có thường đi Florida không?" en_text="Do you go to Florida often? " mp3_slow="doYouGoToFloridaOften.mp3" mp3_normal="doYouGoToFloridaOften.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có cái khác không?" en_text="Do you have another one? " mp3_slow="doYouHaveAnotherOne.mp3" mp3_normal="doYouHaveAnotherOne.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có thích nơi đây không?" en_text="Do you like it here? " mp3_slow="doYouLikeItHere.mp3" mp3_normal="doYouLikeItHere.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có thích quyển sách này không?" en_text="Do you like the book? " mp3_slow="doYouLikeTheBook.mp3" mp3_normal="doYouLikeTheBook.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có cần gì không?" en_text="Do you need anything? " mp3_slow="doYouNeedAnything.mp3" mp3_normal="doYouNeedAnything.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có chơi môn thể thao nào không?" en_text="Do you play any sports? " mp3_slow="doYouPlayAnySports.mp3" mp3_normal="doYouPlayAnySports.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có bán dược phẩm không? (cửa hàng)" en_text="Do you sell medicine? " mp3_slow="doYouSellMedicine.mp3" mp3_normal="doYouSellMedicine.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có học tiếng Anh không?" en_text="Do you study English? " mp3_slow="doYouStudyEnglish.mp3" mp3_normal="doYouStudyEnglish.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có muốn đi với tôi không?" en_text="Do you want to come with me? " mp3_slow="doYouWantToComeWithMe.mp3" mp3_normal="doYouWantToComeWithMe.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có muốn đi với tôi không?" en_text="Do you want to go with me? " mp3_slow="doYouWantToGoWithMe.mp3" mp3_normal="doYouWantToGoWithMe.mp3" catalog_id="10"/>
+    <phrase local_text="Xin lỗi." en_text="Excuse me. " mp3_slow="excuseMe.mp3" mp3_normal="excuseMe.mp3" catalog_id="10"/>
+    <phrase local_text="Gọi điện cho tôi." en_text="Give me a call. " mp3_slow="giveMeACall.mp3" mp3_normal="giveMeACall.mp3" catalog_id="10"/>
+    <phrase local_text="Anh (em trai) của bạn đã từng tới California chưa?" en_text="Has your brother been to California? " mp3_slow="hasYourBrotherBeenToCalifornia.mp3" mp3_normal="hasYourBrotherBeenToCalifornia.mp3" catalog_id="10"/>
+    <phrase local_text="Họ gặp cô ta chưa?" en_text="Have they met her yet? " mp3_slow="haveTheyMetHerYet.mp3" mp3_normal="haveTheyMetHerYet.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn đã làm việc này trước đây chưa?" en_text="Have you done this before? " mp3_slow="haveYouDoneThisBefore.mp3" mp3_normal="haveYouDoneThisBefore.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn đã ở đây bao lâu?" en_text="How long have you been here? " mp3_slow="howLongHaveYouBeenHere.mp3" mp3_normal="howLongHaveYouBeenHere.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn đã ở Mỹ bao lâu?" en_text="How long have you been in America? " mp3_slow="howLongHaveYouBeenInAmerica.mp3" mp3_normal="howLongHaveYouBeenInAmerica.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn đã sống ở đây bao lâu?" en_text="How long have you lived here? " mp3_slow="howLongHaveYouLivedHere.mp3" mp3_normal="howLongHaveYouLivedHere.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có bao nhiêu người con?" en_text="How many children do you have? " mp3_slow="howManyChildrenDoYouHave.mp3" mp3_normal="howManyChildrenDoYouHave.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn nói bao nhiêu ngôn ngữ?" en_text="How many languages do you speak? " mp3_slow="howManyLanguagesDoYouSpeak.mp3" mp3_normal="howManyLanguagesDoYouSpeak.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn có bao nhiêu người trong gia đình?" en_text="How many people do you have in your family? " mp3_slow="howManyPeopleDoYouHaveInYourFamily.mp3" mp3_normal="howManyPeopleDoYouHaveInYourFamily.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn muốn bao nhiêu?" en_text="How much would you like? " mp3_slow="howMuchWouldYouLike.mp3" mp3_normal="howMuchWouldYouLike.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn bao nhiêu tuổi?" en_text="How old are you? " mp3_slow="howOldAreYou.mp3" mp3_normal="howOldAreYou.mp3" catalog_id="10"/>
+    <phrase local_text="Hôm qua tôi mua một cái áo sơ mi." en_text="I bought a shirt yesterday. " mp3_slow="iBoughtAShirtYesterday.mp3" mp3_normal="iBoughtAShirtYesterday.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi phải giặt quần áo." en_text="I have to wash my clothes. " mp3_slow="IHaveToWashMyClothes.mp3" mp3_normal="IHaveToWashMyClothes.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi có 2 người chị (em gái)." en_text="I have two sisters. " mp3_slow="IHave2Sisters.mp3" mp3_normal="IHave2Sisters.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi nhớ." en_text="I remember. " mp3_slow="IRemember.mp3" mp3_normal="IRemember.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi nói một chút tiếng Anh." en_text="I speak a little English. " mp3_slow="ISpeakALittleEnglish.mp3" mp3_normal="ISpeakALittleEnglish.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi  sẽ nói với anh ta là bạn đã gọi điện." en_text="I'll tell him you called. " mp3_slow="illTellHimYouCalled.mp3" mp3_normal="illTellHimYouCalled.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi 32" en_text="I'm 32. " mp3_slow="im32.mp3" mp3_normal="im32.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi cao 6'foot" en_text="I'm 6'foot;. " mp3_slow="im6foot2.mp3" mp3_normal="im6foot2.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi cỡ 8" en_text="I'm a size 8. " mp3_slow="imASize8.mp3" mp3_normal="imASize8.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi dị ứng hải sản." en_text="I'm allergic to seafood. " mp3_slow="imAllergicToSeafood.mp3" mp3_normal="imAllergicToSeafood.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi là người Mỹ." en_text="I'm American. " mp3_slow="imAmerican.mp3" mp3_normal="imAmerican.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi khỏe, còn bạn?" en_text="I'm fine, and you? " mp3_slow="imFineAndYou.mp3" mp3_normal="imFineAndYou.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi không sợ." en_text="I'm not afraid. " mp3_slow="ImNotAfraid.mp3" mp3_normal="ImNotAfraid.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi ốm." en_text="I'm sick. " mp3_slow="imSick.mp3" mp3_normal="imSick.mp3" catalog_id="10"/>
+    <phrase local_text="Nhà của bạn có giống căn nhà này không?" en_text="Is your house like this one? " mp3_slow="isYourHouseLikeThisOne.mp3" mp3_normal="isYourHouseLikeThisOne.mp3" catalog_id="10"/>
+    <phrase local_text="Chồng của bạn cũng từ Boston hả?" en_text="Is your husband also from Boston? " mp3_slow="isYourHusbandAlsoFromBoston.mp3" mp3_normal="isYourHusbandAlsoFromBoston.mp3" catalog_id="10"/>
+    <phrase local_text="Nó không đắt lắm." en_text="It's not very expensive. " mp3_slow="itsNotVeryExpensive.mp3" mp3_normal="itsNotVeryExpensive.mp3" catalog_id="10"/>
+    <phrase local_text="Tôi đã ở đó." en_text="I've been there. " mp3_slow="IveBeenThere.mp3" mp3_normal="IveBeenThere.mp3" catalog_id="10"/>
+    <phrase local_text="Chúng ta hãy chia nhau." en_text="Let's share. " mp3_slow="letsShare.mp3" mp3_normal="letsShare.mp3" catalog_id="10"/>
+    <phrase local_text="Con gái tôi ở đây." en_text="My daughter is here. " mp3_slow="myDaughterIsHere.mp3" mp3_normal="myDaughterIsHere.mp3" catalog_id="10"/>
+    <phrase local_text="Bố tôi đã ở đó." en_text="My father has been there. " mp3_slow="myFatherHasBeenThere.mp3" mp3_normal="myFatherHasBeenThere.mp3" catalog_id="10"/>
+    <phrase local_text="Bố tôi là luật sư." en_text="My father is a lawyer. " mp3_slow="myFatherIsALawyer.mp3" mp3_normal="myFatherIsALawyer.mp3" catalog_id="10"/>
+    <phrase local_text="Bà tôi mất hồi năm ngoái." en_text="My grandmother passed away last year. " mp3_slow="myGrandmotherPassedAwayLastYear.mp3" mp3_normal="myGrandmotherPassedAwayLastYear.mp3" catalog_id="10"/>
+    <phrase local_text="Tên tôi là John Smith." en_text="My name is John Smith. " mp3_slow="myNameIsJohnSmith.mp3" mp3_normal="myNameIsJohnSmith.mp3" catalog_id="10"/>
+    <phrase local_text="Con trai tôi học máy tính." en_text="My son studies computers. " mp3_slow="mySonStudiesComputers.mp3" mp3_normal="mySonStudiesComputers.mp3" catalog_id="10"/>
+    <phrase local_text="Con trai tôi." en_text="My son. " mp3_slow="mySon.mp3" mp3_normal="mySon.mp3" catalog_id="10"/>
+    <phrase local_text="Không. Tôi là người Mỹ." en_text="No, I'm American. " mp3_slow="noImAmerican.mp3" mp3_normal="noImAmerican.mp3" catalog_id="10"/>
+    <phrase local_text="Không, đây là lần đầu tiên." en_text="No, this is the first time. " mp3_slow="noThisIsTheFirstTime.mp3" mp3_normal="noThisIsTheFirstTime.mp3" catalog_id="10"/>
+    <phrase local_text="Các con tôi ở Mỹ." en_text="Our children are in America. " mp3_slow="ourChildrenAreInAmerica.mp3" mp3_normal="ourChildrenAreInAmerica.mp3" catalog_id="10"/>
+    <phrase local_text="Cô ta là chuyên gia." en_text="She's an expert. " mp3_slow="shesAnExpert.mp3" mp3_normal="shesAnExpert.mp3" catalog_id="10"/>
+    <phrase local_text="Cô ta lớn tuổi hơn tôi." en_text="She's older than me. " mp3_slow="shesOlderThanMe.mp3" mp3_normal="shesOlderThanMe.mp3" catalog_id="10"/>
+    <phrase local_text="Chiếc xe đó giống xe của tôi." en_text="That car is similar to my car. " mp3_slow="thatCarIsSimilarToMyCar.mp3" mp3_normal="thatCarIsSimilarToMyCar.mp3" catalog_id="10"/>
+    <phrase local_text="Đây là bà Smith." en_text="This is Mrs. Smith. " mp3_slow="thisIsMrsSmith.mp3" mp3_normal="thisIsMrsSmith.mp3" catalog_id="10"/>
+    <phrase local_text="Đây là mẹ tôi." en_text="This is my mother. " mp3_slow="thisIsMyMother.mp3" mp3_normal="thisIsMyMother.mp3" catalog_id="10"/>
+    <phrase local_text="Đây là lần đầu tiên tôi ở đây." en_text="This is the first time I've been here. " mp3_slow="thisIsTheFirstTimeIveBeenHere.mp3" mp3_normal="thisIsTheFirstTimeIveBeenHere.mp3" catalog_id="10"/>
+    <phrase local_text="Chúng tôi có hai trai và một gái." en_text="We have two boys and one girl. " mp3_slow="weHaveTwoBoysAndOneGirl.mp3" mp3_normal="weHaveTwoBoysAndOneGirl.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn sẽ làm gì tối nay?" en_text="What are you going to do tonight? " mp3_slow="whatAreYouGoingToDoTonight.mp3" mp3_normal="whatAreYouGoingToDoTonight.mp3" catalog_id="10"/>
+    <phrase local_text="Thú vui của bạn là gì?" en_text="What are your hobbies? " mp3_slow="whatAreYourHobbies.mp3" mp3_normal="whatAreYourHobbies.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn học gì?" en_text="What do you study? " mp3_slow="whatDoYouStudy.mp3" mp3_normal="whatDoYouStudy.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn muốn làm gì?" en_text="What do you want to do? " mp3_slow="whatDoYouWantToDo.mp3" mp3_normal="whatDoYouWantToDo.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn đã đi học trường nào?" en_text="What school did you go to? " mp3_slow="whatSchoolDidYouGoTo.mp3" mp3_normal="whatSchoolDidYouGoTo.mp3" catalog_id="10"/>
+    <phrase local_text="Bộ phim ưa thích của bạn là phim gì?" en_text="What's your favorite movie? " mp3_slow="whatsYourFavoriateMovie.mp3" mp3_normal="whatsYourFavoriateMovie.mp3" catalog_id="10"/>
+    <phrase local_text="Họ của bạn là gì?" en_text="What's your last name? " mp3_slow="whatsYourLastName.mp3" mp3_normal="whatsYourLastName.mp3" catalog_id="10"/>
+    <phrase local_text="Tên của bạn là gì?" en_text="What's your name? " mp3_slow="whatsYourName.mp3" mp3_normal="whatsYourName.mp3" catalog_id="10"/>
+    <phrase local_text="Áo thun ở đâu?" en_text="Where are the t-shirts? " mp3_slow="whereAreTheTShirts.mp3" mp3_normal="whereAreTheTShirts.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn đã đi đâu?" en_text="Where did you go? " mp3_slow="whereDidYouGo.mp3" mp3_normal="whereDidYouGo.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn đã học tiếng Anh ở đâu?" en_text="Where did you learn English? " mp3_slow="whereDidYouLearnEnglish.mp3" mp3_normal="whereDidYouLearnEnglish.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn đã làm việc ở đâu trước khi bạn làm việc ở đây?" en_text="Where did you work before you worked here? " mp3_slow="whereDidYouWorkBeforeYouWorkedHere.mp3" mp3_normal="whereDidYouWorkBeforeYouWorkedHere.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn sống ở đâu?" en_text="Where do you live? " mp3_slow="whereDoYouLive.mp3" mp3_normal="whereDoYouLive.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn đã ở đâu?" en_text="Where were you? " mp3_slow="whereWereYou.mp3" mp3_normal="whereWereYou.mp3" catalog_id="10"/>
+    <phrase local_text="Ai đã gửi lá thư này?" en_text="Who sent this letter? " mp3_slow="whoSentThisLetter.mp3" mp3_normal="whoSentThisLetter.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn muốn mua cái này không?" en_text="Would you like to buy this? " mp3_slow="wouldYouLikeToBuyThis.mp3" mp3_normal="wouldYouLikeToBuyThis.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn nói tiếng Anh rất giỏi." en_text="You speak English very well. " mp3_slow="youSpeakEnglishVeryWell.mp3" mp3_normal="youSpeakEnglishVeryWell.mp3" catalog_id="10"/>
+    <phrase local_text="Các con của bạn rất ngoan." en_text="Your children are very well behaved. " mp3_slow="youreChildrenAreVeryWellBehaved.mp3" mp3_normal="youreChildrenAreVeryWellBehaved.mp3" catalog_id="10"/>
+    <phrase local_text="Con gái của bạn." en_text="Your daughter. " mp3_slow="youreDaughter.mp3" mp3_normal="youreDaughter.mp3" catalog_id="10"/>
+    <phrase local_text="Bạn thông minh hơn anh ta." en_text="You're smarter than him. " mp3_slow="youreSmarterThanHim.mp3" mp3_normal="youreSmarterThanHim.mp3" catalog_id="10"/>
+    <phrase local_text="Có buổi hòa nhạc nào không?" en_text="Are there any conerts? " mp3_slow="areThereAnyConerts.mp3" mp3_normal="areThereAnyConerts.mp3" catalog_id="11"/>
+    <phrase local_text="Bạn có muốn đi xem phim không?" en_text="Do you want to go to the movies? " mp3_slow="doYouWantToGoToTheMovies.mp3" mp3_normal="doYouWantToGoToTheMovies.mp3" catalog_id="11"/>
+    <phrase local_text="Bạn đã xem phim này chưa?" en_text="Have you seen this movie? " mp3_slow="haveYouSeenThisMovie.mp3" mp3_normal="haveYouSeenThisMovie.mp3" catalog_id="11"/>
+    <phrase local_text="Anh ta nói bạn thích xem phim." en_text="He said you like to watch movies. " mp3_slow="heSaidYouLikeToWatchMovies.mp3" mp3_normal="heSaidYouLikeToWatchMovies.mp3" catalog_id="11"/>
+    <phrase local_text="Có rạp chiếu phim gần đây không?" en_text="Is there a movie theater nearby? " mp3_slow="isThereAMovieTheaterNearby.mp3" mp3_normal="isThereAMovieTheaterNearby.mp3" catalog_id="11"/>
+    <phrase local_text="Bạn thích loại nhạc gì?" en_text="What kind of music do you like? " mp3_slow="whatKindOfMusicDoYouLike.mp3" mp3_normal="whatKindOfMusicDoYouLike.mp3" catalog_id="11"/>
+    <phrase local_text="Mấy giờ phim bắt đầu?" en_text="What time does the movie start? " mp3_slow="whatTimeDoesTheMovieStart.mp3" mp3_normal="whatTimeDoesTheMovieStart.mp3" catalog_id="11"/>
+    <phrase local_text="Bạn muốn thuê phim không?" en_text="Would you like to rent a movie? " mp3_slow="wouldYouLikeToRentAMovie.mp3" mp3_normal="wouldYouLikeToRentAMovie.mp3" catalog_id="11"/>
+    <phrase local_text="Tôi còn nhiều thứ phải mua." en_text="I still have a lot of things to buy. " mp3_slow="IStillHaveALotOfThingsToBuy.mp3" mp3_normal="IStillHaveALotOfThingsToBuy.mp3" catalog_id="12"/>
+    <phrase local_text="Bạn có bán pin không?" en_text="Do you sell batteries? " mp3_slow="doYouSellBatteries.mp3" mp3_normal="doYouSellBatteries.mp3" catalog_id="12"/>
+    <phrase local_text="Bạn có biết ở đâu có cửa hàng bán khăn tắm không?" en_text="Do you know where there's a store that sells towels? " mp3_slow="doYouKnowWhereTheresAStoreThatSellsTowels.mp3" mp3_normal="doYouKnowWhereTheresAStoreThatSellsTowels.mp3" catalog_id="12"/>
+    <phrase local_text="Làm ơn cho một ly nước." en_text="Can I have a glass of water please? " mp3_slow="canIHaveAGlassOfWaterPlease.mp3" mp3_normal="canIHaveAGlassOfWaterPlease.mp3" catalog_id="12"/>
+    <phrase local_text="Bạn có chỗ trống không?" en_text="Do you have any vacanies? " mp3_slow="doYouHaveAnyVaccanies.mp3" mp3_normal="doYouHaveAnyVaccanies.mp3" catalog_id="12"/>
+    <phrase local_text="Bạn có số điện thoại để gọi tắc xi không?" en_text="Do you have the number for a taxi? " mp3_slow="doYouHaveTheNumberForATaxi.mp3" mp3_normal="doYouHaveTheNumberForATaxi.mp3" catalog_id="12"/>
+    <phrase local_text="Làm ơn đổ đầy. (cây xăng)" en_text="Fill it up, please. " mp3_slow="fillItUpPlease.mp3" mp3_normal="fillItUpPlease.mp3" catalog_id="12"/>
+    <phrase local_text="Anh ta cần một ít quần áo mới." en_text="He needs some new clothes. " mp3_slow="heNeedsSomeNewClothes.mp3" mp3_normal="heNeedsSomeNewClothes.mp3" catalog_id="12"/>
+    <phrase local_text="Cái đó giá bao nhiêu?" en_text="How much is that? " mp3_slow="howMuchIsThat.mp3" mp3_normal="howMuchIsThat.mp3" catalog_id="12"/>
+    <phrase local_text="Cái này giá bao nhiêu?" en_text="How much is this? " mp3_slow="howMuchIsThis.mp3" mp3_normal="howMuchIsThis.mp3" catalog_id="12"/>
+    <phrase local_text="Tôi muốn số điện thoại của khách sạn Hilton, xin vui lòng." en_text="I'd like the number for the Hilton Hotel please. " mp3_slow="idLikeTheNumberForTheHiltonHotelPlease.mp3" mp3_normal="idLikeTheNumberForTheHiltonHotelPlease.mp3" catalog_id="12"/>
+    <phrase local_text="Tôi muốn mua một tấm thẻ điện thoại, xin vui lòng." en_text="I'd like to buy a phone card please. " mp3_slow="idLikeToBuyAPhoneCardPlease.mp3" mp3_normal="idLikeToBuyAPhoneCardPlease.mp3" catalog_id="12"/>
+    <phrase local_text="Tôi muốn về nhà." en_text="I'd like to go home. " mp3_slow="IdLikeToGoHome.mp3" mp3_normal="IdLikeToGoHome.mp3" catalog_id="12"/>
+    <phrase local_text="Tôi muốn đi mua sắm." en_text="I'd like to go shopping. " mp3_slow="IdLikeToGoShopping.mp3" mp3_normal="IdLikeToGoShopping.mp3" catalog_id="12"/>
+    <phrase local_text="Nếu bạn thích nó tôbi có thể mua thêm." en_text="If you like it I can buy more. " mp3_slow="ifYouLikeItICanBuyMore.mp3" mp3_normal="ifYouLikeItICanBuyMore.mp3" catalog_id="12"/>
+    <phrase local_text="Xin lỗCi, chúng tôi không có cái nào." en_text="Sorry, we don't have any. " mp3_slow="sorryWeDontHaveAny.mp3" mp3_normal="sorryWeDontHaveAny.mp3" catalog_id="12"/>
+    <phrase local_text="Những quyển sách đắt tiền." en_text="The books are expensive. " mp3_slow="theBooksAreExpensive.mp3" mp3_normal="theBooksAreExpensive.mp3" catalog_id="12"/>
+    <phrase local_text="Mặc thử nó." en_text="Try it on. " mp3_slow="tryItOn.mp3" mp3_normal="tryItOn.mp3" catalog_id="12"/>
+    <phrase local_text="Bạn muốn mua gì?" en_text="What do you want to buy? " mp3_slow="whatDoYouWantToBuy.mp3" mp3_normal="whatDoYouWantToBuy.mp3" catalog_id="12"/>
+    <phrase local_text="Cỡ mấy?" en_text="What size? " mp3_slow="whatSize.mp3" mp3_normal="whatSize.mp3" catalog_id="12"/>
+    <phrase local_text="Mấy giờ cửa hàng mở cửa?" en_text="What time does the store open? " mp3_slow="whatTimeDoesTheStoreOpen.mp3" mp3_normal="whatTimeDoesTheStoreOpen.mp3" catalog_id="12"/>
+    <phrase local_text="Khi nào máy bay tới?" en_text="When does the plane arrive? " mp3_slow="whenDoesThePlaneArrive.mp3" mp3_normal="whenDoesThePlaneArrive.mp3" catalog_id="12"/>
+    <phrase local_text="Tôi phát âm nó đúng không?" en_text="Am I pronouning it correctly? " mp3_slow="amIPronouningItCorrectly.mp3" mp3_normal="amIPronouningItCorrectly.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn có thể giúp tôi một việc được không?" en_text="Can you do me a favor? " mp3_slow="canYouDoMeAFavor.mp3" mp3_normal="canYouDoMeAFavor.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn có thể giúp tôi không?" en_text="Can you help me? " mp3_slow="canYouHelpMe.mp3" mp3_normal="canYouHelpMe.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn có thể nói lại điều đó được không?" en_text="Can you please say that again? " mp3_slow="canYouPleaseSayThatAgain.mp3" mp3_normal="canYouPleaseSayThatAgain.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn có thể chỉ cho tôi không?" en_text="Can you show me? " mp3_slow="canYouShowMe.mp3" mp3_normal="canYouShowMe.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn có thể quẳng cái đó đi giúp tôi được không?" en_text="Can you throw that away for me? " mp3_slow="canYouThrowThatAwayForMe.mp3" mp3_normal="canYouThrowThatAwayForMe.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn có tin điều đó không?" en_text="Do you believe that? " mp3_slow="doYouBelieveThat.mp3" mp3_normal="doYouBelieveThat.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn có bút chì không?" en_text="Do you have a penil? " mp3_slow="doYouHaveAPenil.mp3" mp3_normal="doYouHaveAPenil.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn có hút thuốc không?" en_text="Do you smoke? " mp3_slow="doYouSmoke.mp3" mp3_normal="doYouSmoke.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn có nói tiếng Anh không?" en_text="Do you speak English? " mp3_slow="doYouSpeakEnglish.mp3" mp3_normal="doYouSpeakEnglish.mp3" catalog_id="13"/>
+    <phrase local_text="Có ai ở đây nói tiếng Anh không?" en_text="Does anyone here speak English? " mp3_slow="doesAnyoneHereSpeakEnglish.mp3" mp3_normal="doesAnyoneHereSpeakEnglish.mp3" catalog_id="13"/>
+    <phrase local_text="Đừng làm điều đó." en_text="Don't do that. " mp3_slow="dontDoThat.mp3" mp3_normal="dontDoThat.mp3" catalog_id="13"/>
+    <phrase local_text="Xin lỗi, bạn nói gì?" en_text="Excuse me, what did you say? " mp3_slow="excuseMeWhatDidYouSay.mp3" mp3_normal="excuseMeWhatDidYouSay.mp3" catalog_id="13"/>
+    <phrase local_text="Quên đi." en_text="Forget it. " mp3_slow="forgetIt.mp3" mp3_normal="forgetIt.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn phát âm chữ đó như thế nào?" en_text="How do you pronoune that? " mp3_slow="howDoYouPronouneThat.mp3" mp3_normal="howDoYouPronouneThat.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn nói điều đó bằng tiếng Anh như thế nào?" en_text="How do you say it in English? " mp3_slow="howDoYouSayItInEnglish.mp3" mp3_normal="howDoYouSayItInEnglish.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn đánh vần nó như thế nào?" en_text="How do you spell it? " mp3_slow="howDoYouSpellIt.mp3" mp3_normal="howDoYouSpellIt.mp3" catalog_id="13"/>
+    <phrase local_text="Bạn đánh vần chữ Seattle như thế nào?" en_text="How do you spell the word Seattle? " mp3_slow="howDoYouSpellTheWordSeattle.mp3" mp3_normal="howDoYouSpellTheWordSeattle.mp3" catalog_id="13"/>
+    <phrase local_text="Tôi nghe bạn không rõ." en_text="I can't hear you clearly. " mp3_slow="iCantHearYouClearly.mp3" mp3_normal="iCantHearYouClearly.mp3" catalog_id="13"/>
+    <phrase local_text="Tôi không quan tâm." en_text="I don't mind. " mp3_slow="iDontMind.mp3" mp3_normal="iDontMind.mp3" catalog_id="13"/>
+    <phrase local_text="Tôi không nói tiếng Anh giỏi lắm." en_text="I don't speak English very well. " mp3_slow="iDontSpeakEnglishVeryWell.mp3" mp3_normal="iDontSpeakEnglishVeryWell.mp3" catalog_id="13"/>
+    <phrase local_text="Tôi không nghĩ vậy." en_text="I don't think so. " mp3_slow="IDontThinkSo.mp3" mp3_normal="IDontThinkSo.mp3" catalog_id="13"/>
+    <phrase local_text="Tôi không hiểu bạn nói gì." en_text="I don't understand what your saying. " mp3_slow="IDontUnderstandWhatYourSaying.mp3" mp3_normal="IDontUnderstandWhatYourSaying.mp3" catalog_id="13"/>
+    <phrase local_text="Bây giờ tôi hiểu." en_text="I understand now. " mp3_slow="IUnderstandNow.mp3" mp3_normal="IUnderstandNow.mp3" catalog_id="13"/>
+    <phrase local_text="Trong phòng có điều hòa không khí không?" en_text="Is there air conditioning in the room? " mp3_slow="isThereAirConditioningInTheRoom.mp3" mp3_normal="isThereAirConditioningInTheRoom.mp3" catalog_id="13"/>
+    <phrase local_text="Chúng ta hãy gặp nhau trước khách sạn." en_text="Let's meet in front of the hotel. " mp3_slow="letsMeetInFrontOfTheHotel.mp3" mp3_normal="letsMeetInFrontOfTheHotel.mp3" catalog_id="13"/>
+    <phrase local_text="Xin mời ngồi." en_text="Please sit down. " mp3_slow="pleaseSitDown.mp3" mp3_normal="pleaseSitDown.mp3" catalog_id="13"/>
+    <phrase local_text="Làm ơn nói tiếng Anh." en_text="Please speak English. " mp3_slow="pleaseSpeakEnglish.mp3" mp3_normal="pleaseSpeakEnglish.mp3" catalog_id="13"/>
+    <phrase local_text="Làm ơn nói chậm hơn." en_text="Please speak more slowly. " mp3_slow="pleaseSpeakMoreSlowly.mp3" mp3_normal="pleaseSpeakMoreSlowly.mp3" catalog_id="13"/>
+    <phrase local_text="Xin lỗi, tôi nghe không rõ." en_text="Sorry, I didn't hear clearly. " mp3_slow="sorryIDidntHearClearly.mp3" mp3_normal="sorryIDidntHearClearly.mp3" catalog_id="13"/>
+    <phrase local_text="Chữ đó có nghĩa bạn bè." en_text="That means friend. " mp3_slow="thatMeansFriend.mp3" mp3_normal="thatMeansFriend.mp3" catalog_id="13"/>
+    <phrase local_text="Sai rồi." en_text="That's wrong. " mp3_slow="thatsWrong.mp3" mp3_normal="thatsWrong.mp3" catalog_id="13"/>
+    <phrase local_text="Gắng nói cái đó." en_text="Try to say it. " mp3_slow="tryToSayIt.mp3" mp3_normal="tryToSayIt.mp3" catalog_id="13"/>
+    <phrase local_text="Cái này có nghĩa gì?" en_text="What does this mean? " mp3_slow="whatDoesThisMean.mp3" mp3_normal="whatDoesThisMean.mp3" catalog_id="13"/>
+    <phrase local_text="Cái này nói gì?" en_text="What does this say? " mp3_slow="whatDoesThisSay.mp3" mp3_normal="whatDoesThisSay.mp3" catalog_id="13"/>
+    <phrase local_text="Chữ này nghĩa là gì?" en_text="What does this word mean? " mp3_slow="whatDoesThisWordMean.mp3" mp3_normal="whatDoesThisWordMean.mp3" catalog_id="13"/>
+    <phrase local_text="Đó là quyển sách của ai?" en_text="Whose book is that? " mp3_slow="whosBookIsThat.mp3" mp3_normal="whosBookIsThat.mp3" catalog_id="13"/>
+    <phrase local_text="Tại sao bạn cười?" en_text="Why are you laughing? " mp3_slow="whyAreYouLaughing.mp3" mp3_normal="whyAreYouLaughing.mp3" catalog_id="13"/>
+    <phrase local_text="Tại sao bạn không đi?" en_text="Why aren't you going? " mp3_slow="whyArentYouGoing.mp3" mp3_normal="whyArentYouGoing.mp3" catalog_id="13"/>
+    <phrase local_text="Tại sao bạn đã làm điều đó?" en_text="Why did you do that? " mp3_slow="whyDidYouDoThat.mp3" mp3_normal="whyDidYouDoThat.mp3" catalog_id="13"/>
+    <phrase local_text="Nó rất quan trọng." en_text="It's very important. " mp3_slow="itsVeryImportant.mp3" mp3_normal="itsVeryImportant.mp3" catalog_id="14"/>
+    <phrase local_text="Bạn đã uống thuốc chưa?" en_text="Did you take your medicine? " mp3_slow="didYouTakeYourMedicine.mp3" mp3_normal="didYouTakeYourMedicine.mp3" catalog_id="14"/>
+    <phrase local_text="Bạn có cảm thấy khỏe hơn không?" en_text="Do you feel better? " mp3_slow="doYouFeelBetter.mp3" mp3_normal="doYouFeelBetter.mp3" catalog_id="14"/>
+    <phrase local_text="Tôi bị đau ở tay." en_text="I have pain in my arm. " mp3_slow="IHavePainInMyArm.mp3" mp3_normal="IHavePainInMyArm.mp3" catalog_id="14"/>
+    <phrase local_text="Tôi không cảm thấy khỏe." en_text="I don't feel well. " mp3_slow="iDontFeelWell.mp3" mp3_normal="iDontFeelWell.mp3" catalog_id="14"/>
+    <phrase local_text="Đau ở đâu?" en_text="Where does it hurt? " mp3_slow="whereDoesItHurt.mp3" mp3_normal="whereDoesItHurt.mp3" catalog_id="14"/>
+    <phrase local_text="Đau ở đây." en_text="It hurts here. " mp3_slow="itHurtsHere.mp3" mp3_normal="itHurtsHere.mp3" catalog_id="14"/>
+    <phrase local_text="Bạn có dị ứng với thứ gì không?" en_text="Are you allergic to anything? " mp3_slow="areYouAllergicToAnything.mp3" mp3_normal="areYouAllergicToAnything.mp3" catalog_id="14"/>
+    <phrase local_text="Gọi điện cho tôi." en_text="Call me. " mp3_slow="callMe.mp3" mp3_normal="callMe.mp3" catalog_id="14"/>
+    <phrase local_text="Tôi gặp tai nạn." en_text="I got in an accident. " mp3_slow="IGotInAnAccident.mp3" mp3_normal="IGotInAnAccident.mp3" catalog_id="14"/>
+    <phrase local_text="Tôi bị cảm." en_text="I have a cold. " mp3_slow="IHaveACold.mp3" mp3_normal="IHaveACold.mp3" catalog_id="14"/>
+    <phrase local_text="Tôi có một cái trong xe." en_text="I have one in my car. " mp3_slow="IHaveOneInMyCar.mp3" mp3_normal="IHaveOneInMyCar.mp3" catalog_id="14"/>
+    <phrase local_text="Hành lý của tôi bị thất lạc." en_text="My luggage is missing. " mp3_slow="myLuggageIsMissing.mp3" mp3_normal="myLuggageIsMissing.mp3" catalog_id="14"/>
+    <phrase local_text="Tôi đau bụng." en_text="My stomach hurts. " mp3_slow="myStomachHurts.mp3" mp3_normal="myStomachHurts.mp3" catalog_id="14"/>
+    <phrase local_text="Tôi đau họng." en_text="My throat is sore. " mp3_slow="myThroatIsSore.mp3" mp3_normal="myThroatIsSore.mp3" catalog_id="14"/>
+    <phrase local_text="Đồng hồ tôi đã bị đánh cắp." en_text="My watch has been stolen. " mp3_slow="myWatchHasBeenStolen.mp3" mp3_normal="myWatchHasBeenStolen.mp3" catalog_id="14"/>
+    <phrase local_text="Dùng thuốc này." en_text="Take this medicine. " mp3_slow="takeThisMedicine.mp3" mp3_normal="takeThisMedicine.mp3" catalog_id="14"/>
+    <phrase local_text="Tai nạn xảy ra tại giao lộ." en_text="The accident happened at the intersection. " mp3_slow="theAccidentHappenedAtTheIntersection.mp3" mp3_normal="theAccidentHappenedAtTheIntersection.mp3" catalog_id="14"/>
+    <phrase local_text="Đã có một tai nạn xe hơi." en_text="There has been a car accident. " mp3_slow="thereHasBeenACarAccident.mp3" mp3_normal="thereHasBeenACarAccident.mp3" catalog_id="14"/>
+    <phrase local_text="Tôi có thể đổi đô la Mỹ ở đâu?" en_text="Where can I exchange U.S. dollars? " mp3_slow="whereCanIExchangeUSDollars.mp3" mp3_normal="whereCanIExchangeUSDollars.mp3" catalog_id="14"/>
+    <phrase local_text="Bệnh viện gần nhất ở đâu?" en_text="Where's the nearest hospital? " mp3_slow="wheresTheNearestHospital.mp3" mp3_normal="wheresTheNearestHospital.mp3" catalog_id="14"/>
+    <phrase local_text="Bưu điện ở đâu?" en_text="Where's the post office? " mp3_slow="wheresThePostOffice.mp3" mp3_normal="wheresThePostOffice.mp3" catalog_id="14"/>
+    <phrase local_text="Những chiếc xe là xe Mỹ." en_text="The cars are American. " mp3_slow="theCarsAreAmerican.mp3" mp3_normal="theCarsAreAmerican.mp3" catalog_id="15"/>
+    <phrase local_text="Tôi nói 2 thứ tiếng." en_text="I speak two languages. " mp3_slow="ISpeak2languages.mp3" mp3_normal="ISpeak2languages.mp3" catalog_id="15"/>
+    <phrase local_text="Người ta thường làm gì vào mùa hè ở Los Angeles?" en_text="What do people usually do in the summer in Los Angeles? " mp3_slow="whatDoPeopleUsuallyDoInTheSummerInLosAngeles.mp3" mp3_normal="whatDoPeopleUsuallyDoInTheSummerInLosAngeles.mp3" catalog_id="15"/>
+    <phrase local_text="Bạn muốn đi đâu?" en_text="Where do you want to go? " mp3_slow="whereDoYouWantToGo.mp3" mp3_normal="whereDoYouWantToGo.mp3" catalog_id="16"/>
+    <phrase local_text="Tôi có thể sử dụng điện thoại của bạn không?" en_text="Can I use your phone? " mp3_slow="canIUseYourPhone.mp3" mp3_normal="canIUseYourPhone.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có chơi bóng rổ không?" en_text="Do you play basketball? " mp3_slow="doYouPlayBasketball.mp3" mp3_normal="doYouPlayBasketball.mp3" catalog_id="16"/>
+    <phrase local_text="Ai đã là thày giáo của bạn?" en_text="Who was your teacher? " mp3_slow="whoWasYourTeacher.mp3" mp3_normal="whoWasYourTeacher.mp3" catalog_id="16"/>
+    <phrase local_text="Còn bạn?" en_text="And you? " mp3_slow="andYou.mp3" mp3_normal="andYou.mp3" catalog_id="16"/>
+    <phrase local_text="Còn gì nữa không?" en_text="Anything else? " mp3_slow="anythingElse.mp3" mp3_normal="anythingElse.mp3" catalog_id="16"/>
+    <phrase local_text="Chúng giống nhau không?" en_text="Are they the same? " mp3_slow="areTheyTheSame.mp3" mp3_normal="areTheyTheSame.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn sợ không?" en_text="Are you afraid? " mp3_slow="areYouAfraid.mp3" mp3_normal="areYouAfraid.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn sẽ dự đám cưới của họ không?" en_text="Are you going to attend their wedding? " mp3_slow="areYouGoingToAttendTheirWedding.mp3" mp3_normal="areYouGoingToAttendTheirWedding.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có gia đình không?" en_text="Are you married? " mp3_slow="areYouMarried.mp3" mp3_normal="areYouMarried.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có khỏe không?" en_text="Are you okay? " mp3_slow="areYouOk.mp3" mp3_normal="areYouOk.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn ốm hả?" en_text="Are you sick? " mp3_slow="areYouSick.mp3" mp3_normal="areYouSick.mp3" catalog_id="16"/>
+    <phrase local_text="Tôi có thể mượn một ít tiền không?" en_text="Can I borrow some money? " mp3_slow="canIBorrowSomeMoney.mp3" mp3_normal="canIBorrowSomeMoney.mp3" catalog_id="16"/>
+    <phrase local_text="Làm ơn đưa phiếu tính tiền." en_text="Can I have the bill please? " mp3_slow="canIHaveTheBillPlease.mp3" mp3_normal="canIHaveTheBillPlease.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có thể gọi lại sau được không?" en_text="Can you call back later? " mp3_slow="canYouCallBackLater.mp3" mp3_normal="canYouCallBackLater.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có thể gọi lại cho tôi sau được không?" en_text="Can you call me back later? " mp3_slow="canYouCallMeBackLater.mp3" mp3_normal="canYouCallMeBackLater.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có thể mang giúp tôi cái này được không?" en_text="Can you carry this for me? " mp3_slow="canYouCarryThisForMe.mp3" mp3_normal="canYouCarryThisForMe.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có thể sửa cái này không?" en_text="Can you fix this? " mp3_slow="canYouFixThis.mp3" mp3_normal="canYouFixThis.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có thể cho tôi một thí dụ được không?" en_text="Can you give me an example? " mp3_slow="canYouGiveMeAnExample.mp3" mp3_normal="canYouGiveMeAnExample.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có thể nói lớn hơn được không?" en_text="Can you speak louder please? " mp3_slow="canYouSpeakLouderPlease.mp3" mp3_normal="canYouSpeakLouderPlease.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn biết bơi không?" en_text="Can you swim? " mp3_slow="canYouSwim.mp3" mp3_normal="canYouSwim.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có nhận đô Mỹ không?" en_text="Do you accept U.S. Dollars? " mp3_slow="doYouAcceptUSDollars.mp3" mp3_normal="doYouAcceptUSDollars.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có bạn gái không?" en_text="Do you have a girlfriend? " mp3_slow="doYouHaveAGirlfriend.mp3" mp3_normal="doYouHaveAGirlfriend.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có vấn đề à?" en_text="Do you have a problem? " mp3_slow="doYouHaveAProblem.mp3" mp3_normal="doYouHaveAProblem.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có hẹn không?" en_text="Do you have an appointment? " mp3_slow="doYouHaveAnAppointment.mp3" mp3_normal="doYouHaveAnAppointment.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có nghe cái đó không?" en_text="Do you hear that? " mp3_slow="doYouHearThat.mp3" mp3_normal="doYouHearThat.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có biết đường tới khách sạn Marriott không?" en_text="Do you know how to get to the Marriott Hotel? " mp3_slow="doYouKnowHowToGetToTheMarriottHotel.mp3" mp3_normal="doYouKnowHowToGetToTheMarriottHotel.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có biết cái này nghĩa là gì không?" en_text="Do you know what this means? " mp3_slow="doYouKnowWhatThisMeans.mp3" mp3_normal="doYouKnowWhatThisMeans.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có biết tôi có thể gọi tắc xi ở đâu không?" en_text="Do you know where I can get a taxi? " mp3_slow="doYouKnowWhereICanGetATaxi.mp3" mp3_normal="doYouKnowWhereICanGetATaxi.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có biết cặp kính của tôi ở đâu không?" en_text="Do you know where my glasses are? " mp3_slow="doYouKnowWhereMyGlassesAre.mp3" mp3_normal="doYouKnowWhereMyGlassesAre.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có thích bạn đồng nghiệp của bạn không?" en_text="Do you like your co-workers? " mp3_slow="doYouLikeYourCoworkers.mp3" mp3_normal="doYouLikeYourCoworkers.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn còn cần gì nữa không?" en_text="Do you need anything else? " mp3_slow="doYouNeedAnythingElse.mp3" mp3_normal="doYouNeedAnythingElse.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có hiểu không?" en_text="Do you understand? " mp3_slow="doYouUnderstand.mp3" mp3_normal="doYouUnderstand.mp3" catalog_id="16"/>
+    <phrase local_text="Anh ta có thích trường đó không/" en_text="Does he like the school? " mp3_slow="doesHeLikeTheSchool.mp3" mp3_normal="doesHeLikeTheSchool.mp3" catalog_id="16"/>
+    <phrase local_text="Đưa tôi cây viết." en_text="Give me the pen. " mp3_slow="giveMeThePen.mp3" mp3_normal="giveMeThePen.mp3" catalog_id="16"/>
+    <phrase local_text="Làm sao bạn biết?" en_text="How do you know? " mp3_slow="howDoYouKnow.mp3" mp3_normal="howDoYouKnow.mp3" catalog_id="16"/>
+    <phrase local_text="Cô ta thế nào?" en_text="How is she? " mp3_slow="howIsShe.mp3" mp3_normal="howIsShe.mp3" catalog_id="16"/>
+    <phrase local_text="Nó dài bao nhiêu?" en_text="How long is it? " mp3_slow="howLongIsIt.mp3" mp3_normal="howLongIsIt.mp3" catalog_id="16"/>
+    <phrase local_text="Bao nhiêu?" en_text="How many? " mp3_slow="howMany.mp3" mp3_normal="howMany.mp3" catalog_id="16"/>
+    <phrase local_text="Nó giá bao nhiêu?" en_text="How much is it? " mp3_slow="howMuchIsIt.mp3" mp3_normal="howMuchIsIt.mp3" catalog_id="16"/>
+    <phrase local_text="Còn ai khác tới không?" en_text="Is anyone else coming? " mp3_slow="IsAnyoneElseComing.mp3" mp3_normal="IsAnyoneElseComing.mp3" catalog_id="16"/>
+    <phrase local_text="Mọi việc ổn không?" en_text="Is everything ok? " mp3_slow="isEverythingOK.mp3" mp3_normal="isEverythingOK.mp3" catalog_id="16"/>
+    <phrase local_text="Bên ngoài trời lạnh không?" en_text="Is it cold outside? " mp3_slow="isItColdOutside.mp3" mp3_normal="isItColdOutside.mp3" catalog_id="16"/>
+    <phrase local_text="Nó cách xa đây không?" en_text="Is it far from here? " mp3_slow="isItFarFromHere.mp3" mp3_normal="isItFarFromHere.mp3" catalog_id="16"/>
+    <phrase local_text="Nó nóng không?" en_text="Is it hot? " mp3_slow="isItHot.mp3" mp3_normal="isItHot.mp3" catalog_id="16"/>
+    <phrase local_text="Trời đang mưa không?" en_text="Is it raining? " mp3_slow="isItRaining.mp3" mp3_normal="isItRaining.mp3" catalog_id="16"/>
+    <phrase local_text="Có thứ gì rẻ hơn không?" en_text="Is there anything cheaper? " mp3_slow="isThereAnythingCheaper.mp3" mp3_normal="isThereAnythingCheaper.mp3" catalog_id="16"/>
+    <phrase local_text="Con trai bạn có đây không?" en_text="Is your son here? " mp3_slow="isYourSonHere.mp3" mp3_normal="isYourSonHere.mp3" catalog_id="16"/>
+    <phrase local_text="Tôi nên đợi không?" en_text="Should I wait? " mp3_slow="shouldIWait.mp3" mp3_normal="shouldIWait.mp3" catalog_id="16"/>
+    <phrase local_text="Cái lớn hay cái nhỏ?" en_text="The big one or the small one? " mp3_slow="theBigOneOrTheSmallOne.mp3" mp3_normal="theBigOneOrTheSmallOne.mp3" catalog_id="16"/>
+    <phrase local_text="Đã có vấn đề gì không?" en_text="Were there any problems? " mp3_slow="wereThereAnyProblems.mp3" mp3_normal="wereThereAnyProblems.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có ở thư viện tối qua không?" en_text="Were you at the library last night? " mp3_slow="wereYouAtTheLibraryLastNight.mp3" mp3_normal="wereYouAtTheLibraryLastNight.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn đang làm gì?" en_text="What are you doing? " mp3_slow="whatAreYouDoing.mp3" mp3_normal="whatAreYouDoing.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn đang nghĩ gì?" en_text="What are you thinking about? " mp3_slow="whatAreYouThinkingAbout.mp3" mp3_normal="whatAreYouThinkingAbout.mp3" catalog_id="16"/>
+    <phrase local_text="Hai bạn đang nói chuyện gì?" en_text="What are you two talking about? " mp3_slow="whatAreYouTwoTalkingAbout.mp3" mp3_normal="whatAreYouTwoTalkingAbout.mp3" catalog_id="16"/>
+    <phrase local_text="Tối qua bạn làm gì?" en_text="What did you do last night? " mp3_slow="whatDidYouDoLastNight.mp3" mp3_normal="whatDidYouDoLastNight.mp3" catalog_id="16"/>
+    <phrase local_text="Hôm qua bạn làm gì?" en_text="What did you do yesterday? " mp3_slow="whatDidYouDoYesterday.mp3" mp3_normal="whatDidYouDoYesterday.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn đã nghĩ gì?" en_text="What did you think? " mp3_slow="whatDidYouThink.mp3" mp3_normal="whatDidYouThink.mp3" catalog_id="16"/>
+    <phrase local_text="Họ học gì?" en_text="What do they study? " mp3_slow="whatDoTheyStudy.mp3" mp3_normal="whatDoTheyStudy.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn có gì?" en_text="What do you have? " mp3_slow="whatDoYouHave.mp3" mp3_normal="whatDoYouHave.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn nghĩ gì?" en_text="What do you think? " mp3_slow="whatDoYouThink.mp3" mp3_normal="whatDoYouThink.mp3" catalog_id="16"/>
+    <phrase local_text="Điều gì đã xảy ra?" en_text="What happened? " mp3_slow="whatHappened.mp3" mp3_normal="whatHappened.mp3" catalog_id="16"/>
+    <phrase local_text="Nó là cái gì?" en_text="What is it? " mp3_slow="whatIsIt.mp3" mp3_normal="whatIsIt.mp3" catalog_id="16"/>
+    <phrase local_text="Đó là cái gì?" en_text="What is that? " mp3_slow="whatIsThat.mp3" mp3_normal="whatIsThat.mp3" catalog_id="16"/>
+    <phrase local_text="Tôi nên mặc gì?" en_text="What should I wear? " mp3_slow="whatShouldIWear.mp3" mp3_normal="whatShouldIWear.mp3" catalog_id="16"/>
+    <phrase local_text="Có gì trong nó?" en_text="What's in it? " mp3_slow="whatsInIt.mp3" mp3_normal="whatsInIt.mp3" catalog_id="16"/>
+    <phrase local_text="Nhiệt độ bao nhiêu?" en_text="What's the temperature? " mp3_slow="whatsTheTemerature.mp3" mp3_normal="whatsTheTemerature.mp3" catalog_id="16"/>
+    <phrase local_text="Cái gì đây?" en_text="What's this? " mp3_slow="whatsThis.mp3" mp3_normal="whatsThis.mp3" catalog_id="16"/>
+    <phrase local_text="Có chuyện gì vậy?" en_text="What's up? " mp3_slow="whatsUp.mp3" mp3_normal="whatsUp.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn từ đâu tới?" en_text="Where are you from? " mp3_slow="whereAreYouFrom.mp3" mp3_normal="whereAreYouFrom.mp3" catalog_id="16"/>
+    <phrase local_text="Tôi có thể thuê xe hơi ở đâu?" en_text="Where can I rent a car? " mp3_slow="whereCanIRentACar.mp3" mp3_normal="whereCanIRentACar.mp3" catalog_id="16"/>
+    <phrase local_text="Nó đã xảy ra ở đâu?" en_text="Where did it happen? " mp3_slow="whereDidItHappen.mp3" mp3_normal="whereDidItHappen.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn đã học nó ở đâu?" en_text="Where did you learn it? " mp3_slow="whereDidYouLearnIt.mp3" mp3_normal="whereDidYouLearnIt.mp3" catalog_id="16"/>
+    <phrase local_text="Anh ta từ đâu tới?" en_text="Where is he from? " mp3_slow="whereIsHeFrom.mp3" mp3_normal="whereIsHeFrom.mp3" catalog_id="16"/>
+    <phrase local_text="Anh ta ở đâu?" en_text="Where is he? " mp3_slow="whereIsHe.mp3" mp3_normal="whereIsHe.mp3" catalog_id="16"/>
+    <phrase local_text="Món nào ngon hơn, mì Ý hay rau gà?" en_text="Which is better, the spaghetti or chicken salad? " mp3_slow="whichIsBetterTheSpaghettiOrChickenSalad.mp3" mp3_normal="whichIsBetterTheSpaghettiOrChickenSalad.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn muốn cái nào?" en_text="Which one do you want? " mp3_slow="whichOneDoYouWant.mp3" mp3_normal="whichOneDoYouWant.mp3" catalog_id="16"/>
+    <phrase local_text="Cái nào rẻ hơn?" en_text="Which one is cheaper? " mp3_slow="whichOneIsCheaper.mp3" mp3_normal="whichOneIsCheaper.mp3" catalog_id="16"/>
+    <phrase local_text="Cái nào tốt nhất?" en_text="Which one is the best? " mp3_slow="whichOneIsTheBest.mp3" mp3_normal="whichOneIsTheBest.mp3" catalog_id="16"/>
+    <phrase local_text="Anh ta học trường nào?" en_text="Which school does he go to? " mp3_slow="whichSchoolDoesHeGoTo.mp3" mp3_normal="whichSchoolDoesHeGoTo.mp3" catalog_id="16"/>
+    <phrase local_text="Họ là ai?" en_text="Who are they? " mp3_slow="whoAreThey.mp3" mp3_normal="whoAreThey.mp3" catalog_id="16"/>
+    <phrase local_text="Bạn đang tìm ai?" en_text="Who are you looking for? " mp3_slow="whoAreYouLookingFor.mp3" mp3_normal="whoAreYouLookingFor.mp3" catalog_id="16"/>
+    <phrase local_text="Ai đây? (hỏi ai đang gọi điện thoại)" en_text="Who is it? " mp3_slow="whoIsIt.mp3" mp3_normal="whoIsIt.mp3" catalog_id="16"/>
+    <phrase local_text="Ai dạy bạn cái đó?" en_text="Who taught you that? " mp3_slow="whoTaughtYouThat.mp3" mp3_normal="whoTaughtYouThat.mp3" catalog_id="16"/>
+    <phrase local_text="Ai đang gọi?" en_text="Who's calling? " mp3_slow="whosCalling.mp3" mp3_normal="whosCalling.mp3" catalog_id="16"/>
+    <phrase local_text="Người đàn ông đằng kia là ai?" en_text="Who's that man over there? " mp3_slow="whosThatManOverThere.mp3" mp3_normal="whosThatManOverThere.mp3" catalog_id="16"/>
+    <phrase local_text="Tại sao bạn đã nói điều đó?" en_text="Why did you say that? " mp3_slow="whyDidYouSayThat.mp3" mp3_normal="whyDidYouSayThat.mp3" catalog_id="16"/>
+    <phrase local_text="Làm ơn đưa giùm tôi lọ muối." en_text="Will you pass me the salt please? " mp3_slow="willYouPassMeTheSaltPlease.mp3" mp3_normal="willYouPassMeTheSaltPlease.mp3" catalog_id="16"/>
+    <phrase local_text="Làm ơn đặt cái này vào trong xe giúp tôi." en_text="Will you put this in the car for me? " mp3_slow="willYouPutThisInTheCarForMe.mp3" mp3_normal="willYouPutThisInTheCarForMe.mp3" catalog_id="16"/>
+    <phrase local_text="Làm ơn nói với anh ta gọi lại cho tôi." en_text="Would you ask him to call me back please? " mp3_slow="wouldYouAskHimToCallMeBackPlease.mp3" mp3_normal="wouldYouAskHimToCallMeBackPlease.mp3" catalog_id="16"/>
+    <phrase local_text="Vâng." en_text="Yes. " mp3_slow="yes.mp3" mp3_normal="yes.mp3" catalog_id="16"/>
+    <phrase local_text="Sau ngân hàng." en_text="Behind the bank. " mp3_slow="behinedTheBank.mp3" mp3_normal="behinedTheBank.mp3" catalog_id="17"/>
+    <phrase local_text="Tôi tự làm chủ." en_text="I'm self-employed. " mp3_slow="ImSelfEmployed.mp3" mp3_normal="ImSelfEmployed.mp3" catalog_id="17"/>
+    <phrase local_text="Bạn làm việc ở đâu?" en_text="Where do you work? " mp3_slow="whereDoYouWork.mp3" mp3_normal="whereDoYouWork.mp3" catalog_id="17"/>
+    <phrase local_text="Tôi mới bắt đầu." en_text="I'm a beginner. " mp3_slow="imABeginner.mp3" mp3_normal="imABeginner.mp3" catalog_id="17"/>
+    <phrase local_text="Việc làm ăn tốt." en_text="Business is good. " mp3_slow="businessIsGood.mp3" mp3_normal="businessIsGood.mp3" catalog_id="17"/>
+    <phrase local_text="6 đô 1 giờ." en_text="6 dollars per hour. " mp3_slow="sixDollarsPerHour.mp3" mp3_normal="sixDollarsPerHour.mp3" catalog_id="17"/>
+    <phrase local_text="Bạn đang chờ ai đó hả?" en_text="Are you waiting for someone? " mp3_slow="areYouWaitingForSomeone.mp3" mp3_normal="areYouWaitingForSomeone.mp3" catalog_id="17"/>
+    <phrase local_text="Hôm nay bạn có làm việc không?" en_text="Are you working today? " mp3_slow="areYouWorkingToday.mp3" mp3_normal="areYouWorkingToday.mp3" catalog_id="17"/>
+    <phrase local_text="Làm ơn đưa giùm cái áo sơ mi của tôi." en_text="Bring me my shirt please. " mp3_slow="bringMeMyShirtPlease.mp3" mp3_normal="bringMeMyShirtPlease.mp3" catalog_id="17"/>
+    <phrase local_text="Bạn có thích xem tivi không?" en_text="Do you like to watch TV? " mp3_slow="doYouLikeToWatchTV.mp3" mp3_normal="doYouLikeToWatchTV.mp3" catalog_id="17"/>
+    <phrase local_text="Bạn có thích sếp của bạn không?" en_text="Do you like your boss? " mp3_slow="doYouLikeYourBoss.mp3" mp3_normal="doYouLikeYourBoss.mp3" catalog_id="17"/>
+    <phrase local_text="Bạn đã học xong chưa?" en_text="Have you finished studying? " mp3_slow="haveYouFinishedStudying.mp3" mp3_normal="haveYouFinishedStudying.mp3" catalog_id="17"/>
+    <phrase local_text="Anh ta làm việc tại một công ty máy tính ở New York." en_text="He works at a computer company in New York. " mp3_slow="heWorksAtAComputerCompanyInNY.mp3" mp3_normal="heWorksAtAComputerCompanyInNY.mp3" catalog_id="17"/>
+    <phrase local_text="Anh ta là kỹ sư." en_text="He's an Engineer. " mp3_slow="hesAnEngineer.mp3" mp3_normal="hesAnEngineer.mp3" catalog_id="17"/>
+    <phrase local_text="Anh ta rất chăm chỉ." en_text="He's very hard working. " mp3_slow="hesVeryHardWorking.mp3" mp3_normal="hesVeryHardWorking.mp3" catalog_id="17"/>
+    <phrase local_text="Bạn đã làm việc ở đây bao lâu?" en_text="How long have you worked here? " mp3_slow="howLongHaveYouWorkedHere.mp3" mp3_normal="howLongHaveYouWorkedHere.mp3" catalog_id="17"/>
+    <phrase local_text="Bạn làm việc mấy giờ một tuần?" en_text="How many hours a week do you work? " mp3_slow="howManyHoursAWeekDoYouWork.mp3" mp3_normal="howManyHoursAWeekDoYouWork.mp3" catalog_id="17"/>
+    <phrase local_text="Bạn có bao nhiêu tiền?" en_text="How much money do you have? " mp3_slow="howMuchMoneyDoYouHave.mp3" mp3_normal="howMuchMoneyDoYouHave.mp3" catalog_id="17"/>
+    <phrase local_text="Bạn làm nghề gì?" en_text="What do you do for work? " mp3_slow="whatDoYouDoForWork.mp3" mp3_normal="whatDoYouDoForWork.mp3" catalog_id="17"/>
+    <phrase local_text="Bố mẹ bạn làm nghề gì?" en_text="What do your parents do for work? " mp3_slow="whatDoYourParentsDoForWork.mp3" mp3_normal="whatDoYourParentsDoForWork.mp3" catalog_id="17"/>
+    <phrase local_text="Anh ta làm nghề gì?" en_text="What does he do for work? " mp3_slow="whatDoesHeDoForWork.mp3" mp3_normal="whatDoesHeDoForWork.mp3" catalog_id="17"/>
+    <phrase local_text="Bố bạn làm nghề gì?" en_text="What does your father do for work? " mp3_slow="whatDoesYourFatherDoForWork.mp3" mp3_normal="whatDoesYourFatherDoForWork.mp3" catalog_id="17"/>
+    <phrase local_text="Mỗi ngày bạn đi làm lúc mấy giờ?" en_text="What time do you go to work everyday? " mp3_slow="whatTimeDoYouGoToWorkEveryday.mp3" mp3_normal="whatTimeDoYouGoToWorkEveryday.mp3" catalog_id="17"/>
+    <phrase local_text="Có chuyện gì vậy?" en_text="What's the matter? " mp3_slow="whatsTheMatter.mp3" mp3_normal="whatsTheMatter.mp3" catalog_id="17"/>
+    <phrase local_text="Khi nào bạn tới Mỹ?" en_text="When do you arrive in the U.S.? " mp3_slow="whenDoYouArriveInTheUS.mp3" mp3_normal="whenDoYouArriveInTheUS.mp3" catalog_id="17"/>
+    <phrase local_text="Khi nào bạn xong việc?" en_text="When do you get off work? " mp3_slow="whenDoYouGetOffWork.mp3" mp3_normal="whenDoYouGetOffWork.mp3" catalog_id="17"/>
+    <phrase local_text="Bạn đã đặt nó ở đâu?" en_text="Where did you put it? " mp3_slow="whereDidYouPutIt.mp3" mp3_normal="whereDidYouPutIt.mp3" catalog_id="17"/>
+    <phrase local_text="Việc làm ăn thế nào?" en_text="How's business? " mp3_slow="howsBusiness.mp3" mp3_normal="howsBusiness.mp3" catalog_id="17"/>
+    <phrase local_text="Thời tiết thế nào?" en_text="How's the weather? " mp3_slow="howsTheWeather.mp3" mp3_normal="howsTheWeather.mp3" catalog_id="18"/>
+    <phrase local_text="Hôm nay trời rất lạnh." en_text="It's very cold today. " mp3_slow="itsVeryColdToday.mp3" mp3_normal="itsVeryColdToday.mp3" catalog_id="18"/>
+    <phrase local_text="Trời có tuyết hôm qua không?" en_text="Did it snow yesterday? " mp3_slow="didItSnowYesterday.mp3" mp3_normal="didItSnowYesterday.mp3" catalog_id="18"/>
+    <phrase local_text="Bạn có nghĩ ngày mai trời sẽ mưa không?" en_text="Do you think it'll rain today? " mp3_slow="doYouThinkItllRainToday.mp3" mp3_normal="doYouThinkItllRainToday.mp3" catalog_id="18"/>
+    <phrase local_text="Bạn có nghĩ ngày mai trời sẽ mưa không?" en_text="Do you think it's going to rain tomorrow? " mp3_slow="doYouThinkItsGoingToRainTomorrow.mp3" mp3_normal="doYouThinkItsGoingToRainTomorrow.mp3" catalog_id="18"/>
+    <phrase local_text="Trời có thường mưa tuyết vào mùa đông ở Massachusetts không?" en_text="Does it often snow in the winter in Massachusetts? " mp3_slow="doesItOftenSnowInTheWinterInMass.mp3" mp3_normal="doesItOftenSnowInTheWinterInMass.mp3" catalog_id="18"/>
+    <phrase local_text="Nó sẽ sớm tới." en_text="It will arrive shortly. " mp3_slow="itWillArriveShortly.mp3" mp3_normal="itWillArriveShortly.mp3" catalog_id="18"/>
+    <phrase local_text="Hôm nay trời sẽ nóng." en_text="It's going to be hot today. " mp3_slow="itsGoingToBeHotToday.mp3" mp3_normal="itsGoingToBeHotToday.mp3" catalog_id="18"/>
+    <phrase local_text="Trời đang mưa." en_text="It's raining. " mp3_slow="itsRaining.mp3" mp3_normal="itsRaining.mp3" catalog_id="18"/>
+    <phrase local_text="Đường trơn." en_text="The roads are slippery. " mp3_slow="theRoadsAreSlippery.mp3" mp3_normal="theRoadsAreSlippery.mp3" catalog_id="18"/>
+    <phrase local_text="Ngày mai thời tiết thế nào?" en_text="What will the weather be like tomorrow? " mp3_slow="whatWillTheWeatherBeLikeTomorrow.mp3" mp3_normal="whatWillTheWeatherBeLikeTomorrow.mp3" catalog_id="18"/>
+  </phrases>

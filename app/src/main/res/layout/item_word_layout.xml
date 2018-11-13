@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp">
+
+    <ImageView
+        android:id="@+id/iv_learn_word"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_centerVertical="true"
+        android:background="@drawable/ic_star_border_24px"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="15dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="55dp"
+        android:layout_marginRight="55dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_word"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textSize="16sp"
+            android:layout_marginTop="3dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_read"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textSize="14sp"
+            android:layout_marginTop="3dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/tv_meaning"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="2dp"
+            android:textSize="14sp"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:paddingLeft="5dp"
+            android:layout_marginBottom="3dp"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_speak"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/ic_listen_24px"
+        android:layout_centerVertical="true"
+        android:layout_margin="20dp" />
+
+</RelativeLayout>

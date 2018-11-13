@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2e7d32</color>
+    <color name="colorPrimaryDark">#1B5E20</color>
+    <color name="colorAccent">#2196F3</color>
+
+    <color name="lockMask">#4d000000</color>
+
+    <color name="colorMainBackground">#FAFAFA</color>
+    <color name="colorPrimaryText">#DD000000</color>
+    <color name="colorSecondaryText">#89000000</color>
+    <color name="colorDisableText">#60000000</color>
+    <color name="colorDivider">#1E000000</color>
+
+    <color name="colorConversationIn">#607D8B</color>
+    <color name="colorConversationOut">#2196F3</color>
+</resources>
